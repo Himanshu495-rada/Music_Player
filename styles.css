@@ -101,7 +101,7 @@ button i {
 }
 .controls button:hover {
   background-color: var(--primary-neon);
-  color: var(--text-dark);
+  color: var (--text-dark);
   box-shadow: var(--glow-primary);
 }
 
@@ -209,37 +209,29 @@ button i {
 
 /* --- Footer Player --- */
 .footer-player {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  height: 80px;
+  padding: 0 1rem;
+  background-color: var(--background-medium);
+  border-top: 1px solid var(--background-light);
   position: fixed;
   bottom: 0;
   left: 0;
   width: 100%;
-  height: 80px; /* Initial height */
-  background-color: var(--background-medium);
-  border-top: 1px solid var(--background-light);
-  display: flex;
-  align-items: center;
-  padding: 0 1rem;
   z-index: 100;
-  transition: background-color 0.3s ease;
-  cursor: pointer; /* Make the whole footer clickable initially */
-}
-
-.footer-player.active {
-  background: linear-gradient(
-    to right,
-    rgba(0, 0, 0, 0.8),
-    var(--background-medium) 40%
-  );
-  cursor: default; /* Normal cursor when active */
 }
 
 .player-info {
   display: flex;
+  flex-direction: row;
   align-items: center;
   gap: 1rem;
-  flex-shrink: 0; /* Prevent shrinking */
-  min-width: 200px; /* Ensure space for info */
-  opacity: 0; /* Hidden by default */
+  min-width: 200px;
+  flex: 1 1 0;
+  opacity: 0;
   transition: opacity 0.5s ease;
   cursor: pointer;
 }
@@ -263,7 +255,7 @@ button i {
 .player-track-info {
   display: flex;
   flex-direction: column;
-  overflow: hidden; /* Prevent text overflow */
+  overflow: hidden;
 }
 
 .player-title {
@@ -288,22 +280,6 @@ button i {
   justify-content: center;
   align-items: center;
   gap: 1rem;
-  flex-grow: 1; /* Take up remaining space */
-}
-
-.player-controls button {
-  font-size: 1.4rem;
-  color: var(--text-medium);
-}
-.player-controls button:hover {
-  color: var(--primary-neon);
-}
-.player-controls button.play-pause-btn i {
-  font-size: 2rem; /* Make play/pause bigger */
-  color: var(--text-light);
-}
-.player-controls button.play-pause-btn:hover i {
-  color: var(--primary-neon);
 }
 
 .progress-volume-container {
@@ -327,8 +303,11 @@ button i {
   text-align: center;
 }
 
+/* Make the progress bar wider in the footer player */
 .progress-bar-container {
-  flex-grow: 1;
+  flex-grow: 2; /* Take more space */
+  min-width: 200px; /* Minimum width */
+  max-width: 400px; /* Maximum width */
   height: 6px;
   background-color: var(--background-light);
   border-radius: 3px;
@@ -551,124 +530,82 @@ button i {
   max-width: 200px;
 }
 
-/* --- Responsive Design --- */
 @media (max-width: 768px) {
-  html {
-    font-size: 14px;
+  .footer-player {
+    flex-direction: row !important;
+    height: 80px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 0.5rem;
   }
-
-  .main-content {
-    padding: 1rem;
-    padding-bottom: 150px; /* More space for taller footer */
+  .player-info {
+    flex-direction: row !important;
+    align-items: center;
+    gap: 0.7rem;
+    width: 0;
+    flex-grow: 1;
+    min-width: 0;
+    margin-bottom: 0;
+    text-align: left;
   }
-
-  .header {
+  .player-cover-art {
+    display: block !important;
+    margin: 0;
+    width: 44px;
+    height: 44px;
+    min-width: 44px;
+    min-height: 44px;
+  }
+  .player-track-info {
     flex-direction: column;
     align-items: flex-start;
+    width: 0;
+    flex-grow: 1;
+    min-width: 0;
+    overflow: hidden;
+  }
+  .player-title,
+  .player-artist {
+    text-align: left;
+    width: 100%;
+    display: block;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 13em; /* About 12 characters before ... */
+    font-size: 0.95rem;
+  }
+  .player-controls {
+    width: auto;
+    margin-bottom: 0;
+    gap: 0;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  #footer-prev-btn,
+  #footer-next-btn,
+  .progress-volume-container {
+    display: none !important;
+  }
+
+  /* Responsive Song List: Only show PlayIcon, Title, MoreIcon in header and rows */
+  .song-list-header,
+  .song-item {
+    grid-template-columns: 40px 1fr 40px; /* PlayIcon, Title, MoreIcon */
+    gap: 0.5rem;
+  }
+  /* Hide artist, album, duration columns in both header and rows */
+  .song-list-header > div:nth-child(3),
+  .song-list-header > div:nth-child(4),
+  .song-list-header > div:nth-child(5),
+  .song-item .song-artist,
+  .song-item .song-album,
+  .song-item .song-duration {
+    display: none !important;
   }
 
   .controls {
-    margin-top: 1rem;
-    width: 100%;
-    justify-content: space-between;
-  }
-
-  .song-list-header,
-  .song-item {
-    grid-template-columns: 40px 1fr 1fr 40px; /* Icon, Title, Artist, Duration */
-    gap: 0.5rem;
-    padding: 0.6rem 0.8rem;
-    font-size: 0.85rem;
-  }
-  .song-album,
-  .song-more {
-    display: none;
-  } /* Hide album/more on small screens */
-
-  .footer-player {
-    height: 100px; /* Taller footer on mobile */
-    flex-direction: column;
-    padding: 0.5rem;
-    align-items: center; /* Center everything */
-  }
-
-  .footer-player.active {
-    background: var(--background-medium); /* simpler background */
-  }
-
-  .player-info {
-    width: 100%;
-    justify-content: center;
-    min-width: unset;
-    margin-bottom: 0.5rem; /* Space below info */
-    text-align: center;
-  }
-  .player-cover-art {
-    display: none;
-  } /* Hide small cover on mobile footer */
-
-  .progress-volume-container {
-    width: 100%;
-    margin-left: 0; /* Remove left margin */
-    flex-direction: column;
-    gap: 0.5rem;
-    min-width: unset;
-  }
-
-  .progress-bar-container {
-    width: 100%;
-    margin: 0;
-  }
-  .time-controls-group {
-    display: flex;
-    width: 100%;
-    align-items: center;
-    justify-content: space-between;
-    margin-bottom: 0.5rem;
-  }
-
-  .volume-control {
-    display: none; /* Hide volume slider in mobile footer (optional) */
-  }
-
-  .player-controls {
-    order: -1; /* Move controls above progress */
-    margin-bottom: 0.5rem;
-    width: 100%;
-    justify-content: space-around;
-  }
-  .player-controls button {
-    font-size: 1.6rem;
-  }
-  .player-controls button.play-pause-btn i {
-    font-size: 2.5rem;
-  }
-
-  /* Full Screen Adjustments */
-  .fs-cover-art {
-    width: 200px;
-    height: 200px;
-  }
-  .fs-title {
-    font-size: 1.5rem;
-  }
-  .fs-artist {
-    font-size: 1rem;
-  }
-  .fs-controls {
-    gap: 1.5rem;
-  }
-  .fs-controls button {
-    font-size: 1.6rem;
-  }
-  .fs-controls button.play-pause-btn i {
-    font-size: 2.5rem;
-  }
-  .fs-progress-container {
-    width: 90%;
-  }
-  .fs-volume-control {
-    width: 90%;
+    margin-top: 10px;
   }
 }
 

@@ -85,7 +85,6 @@
 
     <!-- Footer Music Player -->
     <footer class="footer-player" id="footer-player">
-      <!-- Player Info (Initially hidden) -->
       <div class="player-info" id="player-info">
         <div class="player-cover-art" id="footer-cover-art"></div>
         <div class="player-track-info">
@@ -93,8 +92,6 @@
           <span class="player-artist" id="footer-artist"></span>
         </div>
       </div>
-
-      <!-- Player Controls (Always visible, but might be styled differently) -->
       <div class="player-controls">
         <button id="footer-prev-btn" aria-label="Previous Song">
           <i class="fas fa-step-backward"></i>
@@ -110,7 +107,6 @@
           <i class="fas fa-step-forward"></i>
         </button>
       </div>
-
       <!-- Progress & Volume (Initially hidden) -->
       <div class="progress-volume-container" id="progress-volume-container">
         <!-- Group time and progress for better mobile layout -->
@@ -200,5 +196,6 @@
     <audio id="audio-player"></audio>
 
     <script src="script.js" type="module"></script>
+    <script src="https://cdn.jsdelivr.net/npm/music-metadata-browser/dist/music-metadata-browser.min.js"></script>
   </body>
 </html>
