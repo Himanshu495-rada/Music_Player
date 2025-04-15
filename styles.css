@@ -209,7 +209,7 @@ button i {
 
 /* --- Footer Player --- */
 .footer-player {
-  display: flex;
+  display: none;
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
@@ -222,6 +222,10 @@ button i {
   left: 0;
   width: 100%;
   z-index: 100;
+}
+
+.footer-player.active {
+  display: flex;
 }
 
 .player-info {
@@ -662,4 +666,81 @@ button i {
   height: 48px;
   margin: auto;
   display: block;
+}
+
+.footer-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1.5rem;
+  margin: 0 0 100px 0;
+}
+.footer-link {
+  color: var(--primary-neon);
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1rem;
+  transition: color 0.2s;
+}
+.footer-link:hover {
+  color: var(--secondary-neon);
+  text-decoration: underline;
+}
+
+/* Modal styles */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 2000;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: auto;
+  background: rgba(10, 10, 10, 0.85);
+  backdrop-filter: blur(2px);
+}
+.modal-content {
+  background: var(--background-medium);
+  margin: 8% auto;
+  padding: 2rem;
+  border-radius: 10px;
+  max-width: 400px;
+  color: var(--text-light);
+  box-shadow: 0 0 20px var(--primary-neon);
+  position: relative;
+}
+.close-modal {
+  position: absolute;
+  top: 1rem;
+  right: 1.5rem;
+  font-size: 2rem;
+  color: var(--primary-neon);
+  cursor: pointer;
+}
+.close-modal:hover {
+  color: var(--secondary-neon);
+}
+.modal-content h2 {
+  margin-bottom: 1rem;
+  color: var(--primary-neon);
+  text-align: center;
+}
+.modal-content ul {
+  list-style: disc inside;
+  margin: 0;
+  padding: 0;
+}
+.modal-content li {
+  margin-bottom: 0.5rem;
+}
+@media (max-width: 768px) {
+  .footer-links {
+    margin-left: 0.5rem;
+    gap: 0.7rem;
+  }
+  .modal-content {
+    max-width: 90vw;
+    padding: 1rem;
+  }
 }

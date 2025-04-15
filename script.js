@@ -124,56 +124,46 @@ document.addEventListener("DOMContentLoaded", async () => {
   }
 
   // Lazy load audio src and show spinner
-  async function lazyLoadAndPlay(song, index) {
+  function lazyLoadAndPlay(song, index) {
     isLoading = true;
+    // Show spinner only in the song list play icon
     const playIconDiv = document.getElementById(`play-icon-${index}`);
     if (playIconDiv) playIconDiv.innerHTML = `<span class="spinner"></span>`;
 
-    // Dynamically extract and set cover art
-    await setDynamicCoverArt(song);
+    // Show spinner in cover art area (optional, but you said not needed, so skip)
+    // footerCoverArt.innerHTML = `<span class="spinner cover-spinner"></span>`;
 
+    // Always set the cover art background image
+    footerCoverArt.style.backgroundImage = `url('${song.cover}')`;
+
+    // Play/pause button stays as is
     footerPlayPauseBtn.innerHTML = `<i class="fas fa-pause"></i>`;
+
     audioPlayer.src = "";
     footerTitle.textContent = song.title;
     footerArtist.textContent = song.artist || "Unknown Artist";
     footerDuration.textContent = formatTime(song.duration);
 
+    fsCoverArt.src = song.cover;
     fsTitle.textContent = song.title;
     fsArtist.textContent = song.artist || "Unknown Artist";
 
+    // Set src and wait for canplay event
     audioPlayer.src = song.src;
     audioPlayer.load();
 
     audioPlayer.oncanplay = () => {
       isLoading = false;
+      // Restore play icon in the list
       if (playIconDiv) playIconDiv.innerHTML = `<i class="fas fa-pause"></i>`;
+      // Restore cover art background image (in case it was changed)
+      footerCoverArt.style.backgroundImage = `url('${song.cover}')`;
+      // Remove any spinner from cover art
+      footerCoverArt.innerHTML = "";
       playSong();
       updateListHighlighting();
       audioPlayer.oncanplay = null;
     };
-  }
-
-  async function setDynamicCoverArt(song) {
-    // Default cover
-    let coverUrl = "assets/image/default_cover.jpg";
-    try {
-      // Fetch only the first 128KB (enough for ID3 tags and cover art)
-      const response = await fetch(song.src, {
-        headers: { Range: "bytes=0-131071" },
-      });
-      const arrayBuffer = await response.arrayBuffer();
-      const metadata = await musicMetadata.parseBlob(new Blob([arrayBuffer]));
-      if (metadata.common.picture && metadata.common.picture.length > 0) {
-        const pic = metadata.common.picture[0];
-        const blob = new Blob([pic.data], { type: pic.format });
-        coverUrl = URL.createObjectURL(blob);
-      }
-    } catch (e) {
-      // Use default cover if anything fails
-    }
-    // Set cover art in both players
-    footerCoverArt.style.backgroundImage = `url('${coverUrl}')`;
-    fsCoverArt.src = coverUrl;
   }
 
   function playSong() {
@@ -389,4 +379,49 @@ document.addEventListener("DOMContentLoaded", async () => {
   // Initial setup
   renderCurrentPage();
   updateVolume({ target: { value: audioPlayer.volume } });
+});
+
+document.addEventListener("keydown", (e) => {
+  // Ignore if typing in an input or textarea
+  if (
+    document.activeElement.tagName === "INPUT" ||
+    document.activeElement.tagName === "TEXTAREA" ||
+    document.activeElement.isContentEditable
+  ) {
+    return;
+  }
+  if (e.code === "Space") {
+    e.preventDefault();
+    togglePlayPause();
+  } else if (e.code === "ArrowRight") {
+    e.preventDefault();
+    if (!isNaN(audioPlayer.currentTime)) {
+      audioPlayer.currentTime = Math.min(
+        audioPlayer.currentTime + 5,
+        audioPlayer.duration || audioPlayer.currentTime + 5
+      );
+    }
+  } else if (e.code === "ArrowLeft") {
+    e.preventDefault();
+    if (!isNaN(audioPlayer.currentTime)) {
+      audioPlayer.currentTime = Math.max(audioPlayer.currentTime - 5, 0);
+    }
+  }
+});
+
+const featuresLink = document.getElementById("features-link");
+const featuresModal = document.getElementById("features-modal");
+const closeFeaturesModal = document.getElementById("close-features-modal");
+
+featuresLink.addEventListener("click", (e) => {
+  e.preventDefault();
+  featuresModal.style.display = "block";
+});
+closeFeaturesModal.addEventListener("click", () => {
+  featuresModal.style.display = "none";
+});
+window.addEventListener("click", (e) => {
+  if (e.target === featuresModal) {
+    featuresModal.style.display = "none";
+  }
 });
