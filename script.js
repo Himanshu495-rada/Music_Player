@@ -40,6 +40,9 @@ document.addEventListener("DOMContentLoaded", async () => {
     "progress-volume-container"
   );
   const volumeIcon = document.getElementById("volume-icon");
+  const footerProgressSlider = document.getElementById(
+    "footer-progress-slider"
+  );
 
   // Full Screen Player Elements
   const fullScreenPlayer = document.getElementById("full-screen-player");
@@ -56,6 +59,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   const fsProgressBar = document.getElementById("fs-progress-bar");
   const fsVolumeSlider = document.getElementById("fs-volume-slider");
   const fsVolumeIcon = document.getElementById("fs-volume-icon");
+  const fsProgressSlider = document.getElementById("fs-progress-slider");
 
   // Other Controls
   const shufflePlayBtn = document.getElementById("shuffle-play-btn");
@@ -249,10 +253,19 @@ document.addEventListener("DOMContentLoaded", async () => {
     const { duration, currentTime } = e.srcElement;
     if (!isNaN(duration)) {
       const progressPercent = (currentTime / duration) * 100;
-      footerProgressBar.style.width = `${progressPercent}%`;
-      fsProgressBar.style.width = `${progressPercent}%`;
       footerCurrentTime.textContent = formatTime(currentTime);
       fsCurrentTime.textContent = formatTime(currentTime);
+
+      // Sync both sliders
+      fsProgressSlider.max = duration;
+      fsProgressSlider.value = currentTime;
+      footerProgressSlider.max = duration;
+      footerProgressSlider.value = currentTime;
+
+      // Update slider backgrounds for progress
+      const progressBg = `linear-gradient(to right, var(--primary-neon) 0%, var(--primary-neon) ${progressPercent}%, var(--background-light) ${progressPercent}%, var(--background-light) 100%)`;
+      fsProgressSlider.style.background = progressBg;
+      footerProgressSlider.style.background = progressBg;
     }
   }
 
@@ -358,12 +371,12 @@ document.addEventListener("DOMContentLoaded", async () => {
     if (durationEl) durationEl.textContent = formatTime(duration);
   });
   audioPlayer.addEventListener("ended", nextSong);
-  footerProgressContainer.addEventListener("click", (e) =>
-    setProgress(e, footerProgressContainer)
-  );
-  fsProgressContainer.addEventListener("click", (e) =>
-    setProgress(e, fsProgressContainer)
-  );
+  // footerProgressContainer.addEventListener("click", (e) =>
+  //   setProgress(e, footerProgressContainer)
+  // );
+  // fsProgressContainer.addEventListener("click", (e) =>
+  //   setProgress(e, fsProgressContainer)
+  // );
   footerVolumeSlider.addEventListener("input", updateVolume);
   fsVolumeSlider.addEventListener("input", updateVolume);
   shufflePlayBtn.addEventListener("click", shuffleAndPlay);
@@ -375,6 +388,16 @@ document.addEventListener("DOMContentLoaded", async () => {
   footerPlayerInfo.addEventListener("click", openFullScreenPlayer);
   footerCoverArt.addEventListener("click", openFullScreenPlayer);
   closeFullScreenBtn.addEventListener("click", closeFullScreenPlayer);
+  fsProgressSlider.addEventListener("input", (e) => {
+    if (!isNaN(audioPlayer.duration)) {
+      audioPlayer.currentTime = e.target.value;
+    }
+  });
+  footerProgressSlider.addEventListener("input", (e) => {
+    if (!isNaN(audioPlayer.duration)) {
+      audioPlayer.currentTime = e.target.value;
+    }
+  });
 
   // Initial setup
   renderCurrentPage();

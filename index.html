@@ -119,12 +119,18 @@
           <span class="time-display current-time" id="footer-current-time"
             >0:00</span
           >
-          <div class="progress-bar-container" id="footer-progress-container">
-            <div class="progress-bar" id="footer-progress-bar"></div>
-          </div>
+          <input
+            type="range"
+            id="footer-progress-slider"
+            class="fs-progress-slider"
+            min="0"
+            max="100"
+            value="0"
+            step="0.1"
+            style="width: 200px; margin: 0 0.5rem"
+          />
           <span class="time-display duration" id="footer-duration">0:00</span>
         </div>
-
         <div class="volume-control">
           <i class="fas fa-volume-down" id="volume-icon"></i>
           <input
@@ -188,9 +194,22 @@
       </div>
 
       <div class="fs-progress-container">
+        <input
+          type="range"
+          id="fs-progress-slider"
+          class="fs-progress-slider"
+          min="0"
+          max="100"
+          value="0"
+          step="0.1"
+          style="width: 100%; margin-bottom: 0.5rem"
+        />
+        <!-- Remove or comment out the following lines -->
+        <!--
         <div class="fs-progress-bar-container" id="fs-progress-container">
           <div class="fs-progress-bar" id="fs-progress-bar"></div>
         </div>
+        -->
         <div class="fs-time-display">
           <span id="fs-current-time">0:00</span>
           <span id="fs-duration">0:00</span>
