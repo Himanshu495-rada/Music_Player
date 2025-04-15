@@ -1,0 +1,27 @@
+<svg width="150" height="150" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="neon-glow-blue" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/> </feMerge>
+    </filter>
+     <filter id="soft-glow-blue" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="100" height="100" fill="#0A0A1A" />
+
+  <g stroke="#00FFFF" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" filter="url(#neon-glow-blue)">
+    <circle cx="35" cy="70" r="12"/>
+    <line x1="47" y1="70" x2="47" y2="25"/>
+    <path d="M 47 25 Q 65 30 75 45" />
+  </g>
+
+  <title>Neon Music Note Icon</title>
+</svg>
