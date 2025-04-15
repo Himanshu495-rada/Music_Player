@@ -1,0 +1,4330 @@
+[
+  {
+    "title": "Behka (PagalWorld.info)",
+    "artist": "Vibha Saraf , Nucleya (PagalWorld.info)",
+    "album": "High Jack (PagalWorld.info)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/01 Behka - High Jack 320Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 235
+  },
+  {
+    "title": "Chogada - Pagalworld.org",
+    "artist": "Darshan Raval, Asees Kaur - Pagalworld.org",
+    "album": "Loveratri - Pagalworld.org",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/01 Chogada - Loveratri.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 249
+  },
+  {
+    "title": "Desi Kalakaar - PagalWorld.com",
+    "artist": "Yo Yo Honey Singh",
+    "album": "Desi Kalakaar (2014) - PagalWorld.com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/01 Desi Kalakaar - Yo Yo Honey Singh.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 258
+  },
+  {
+    "title": "Dilbar (PagalWorld.co)",
+    "artist": "Neha Kakkar, Ikka, Dhvani Bhanushali (PagalWorld.co)",
+    "album": "Satyameva Jayate (PagalWorld.co)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/01 Dilbar - Satyameva Jayate.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 184
+  },
+  {
+    "title": "Heeriye (PagalWorld.co)",
+    "artist": "Meet Bros, Deep Money , Neha Bhasin",
+    "album": "Race 3 (PagalWorld.co)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/01 Heeriye - Race 3 (iTunesRip).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 305
+  },
+  {
+    "title": "Lungi Dance - PagalWorld.com",
+    "artist": "Yo Yo Honey Singh - PagalWorld.com",
+    "album": "Yo Yo Hits (2013) - PagalWorld.com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/01 Lungi Dance - Yo Yo Honey Singh (PagalWorld.com)- 320Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 275
+  },
+  {
+    "title": "Main Hoon (SongsMp3.Co)",
+    "artist": "Tanishk Baagchi , Siddharth Mahadevan",
+    "album": "Munna Michael (SongsMp3.Co)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/01 Main Hoon - Munna Michael.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 232
+  },
+  {
+    "title": "Milegi Milegi (Pagalworld.org)",
+    "artist": "Mika Singh , Sachin Jigar (Pagalworld.org)",
+    "album": "Stree (Pagalworld.org)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/01 Milegi Milegi - Stree.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 153
+  },
+  {
+    "title": "Naino Ne Baandhi (Pagalworld.co)",
+    "artist": "Yasser Desai (Pagalworld.co)",
+    "album": "Gold (Pagalworld.co)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/01 Naino Ne Baandhi - Gold.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 241
+  },
+  {
+    "title": "Rise Up (feat. Vamero)",
+    "artist": "Vinai",
+    "album": "Rise Up (feat. Vamero) - Single",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/01 Rise Up (feat. Vamero).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 182
+  },
+  {
+    "title": "Shake That Booty - PagalWorld.com",
+    "artist": "Mika Singh, Rap by Deep Cold",
+    "album": "Balwinder Singh Famous Ho Gaya - PagalWorld.com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/01 Shake That Booty (Mika) Balwinder Singh Famous Ho Gaya 320Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 292
+  },
+  {
+    "title": "Tera Fitoor (PagalWorld.co)",
+    "artist": "Arijit Singh (PagalWorld.co)",
+    "album": "Genius (PagalWorld.co)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/01 Tera Fitoor - Genius.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 310
+  },
+  {
+    "title": "Tere Hoke Rehengay - PagalWorld.com",
+    "artist": "Arijit Singh - PagalWorld.com",
+    "album": "Raja Natwarlal (2014) - PagalWorld.com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/01 Tere Hoke Rehengay - Raja Natwarlal (Arijit Singh) - 320Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 243
+  },
+  {
+    "title": "Theher Ja - PagalWorld.info",
+    "artist": "Armaan Malik - PagalWorld.info",
+    "album": "October - PagalWorld.info",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/01 Theher Ja - October (Armaan Malik) 320Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 161
+  },
+  {
+    "title": "Birthday Bash [SongsMp3.Com]",
+    "artist": "Yo Yo Honey Singh & Alfaaz",
+    "album": "Dilliwaali Zaalim Girlfriend [SongsMp3.Com]",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/01_20Birthday_20Bash.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 251
+  },
+  {
+    "title": "Dil Mera Muft Ka - www.DJMaza.Com",
+    "artist": "Nandini Shrikar, Muazzam Beg, Shadaab Faridi, Altamash Faridi, Shabaab Sabri",
+    "album": "Agent Vinod (2012)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/02 - Agent Vinod - Dil Mera Muft Ka.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 266
+  },
+  {
+    "title": "Dhup Chik - MusicBadshah.Org",
+    "artist": "Raftaar, Aastha Gill & Badshah",
+    "album": "Fugly (2014)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/02 - Dhup Chik - MusicBadshah.Org.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 173
+  },
+  {
+    "title": "Bhare Bazaar (Pagalworld.org)",
+    "artist": "Badshah , Payal Dev (Pagalworld.org)",
+    "album": "Namaste England (Pagalworld.org)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/02 Bhare Bazaar - Namaste England (1).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 214
+  },
+  {
+    "title": "Chad Gayi Hai - Pagalworld.co",
+    "artist": "Jigar Saraiya, Sachin Sanghvi, Vishal Dadlani - Pagalworld.co",
+    "album": "Gold - Pagalworld.co",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/02 Chad Gayi Hai - Gold.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 185
+  },
+  {
+    "title": "Dekhte Dekhte - Pagalworld.org",
+    "artist": "Atif Aslam - Pagalworld.org",
+    "album": "Batti Gul Meter Chalu - Pagalworld.org",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/02 Dekhte Dekhte - Batti Gul Meter Chalu.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 256
+  },
+  {
+    "title": "Dil Diyan Gallan - PagalWorld.La",
+    "artist": "Atif Aslam - PagalWorld.La",
+    "album": "Tiger Zinda Hai - PagalWorld.La",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/02 Dil Diyan Gallan - Tiger Zinda Hai (Atif) 320Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 260
+  },
+  {
+    "title": "Dil Meri Na Sune (Pagalworld.co)",
+    "artist": "Atif Aslam (Pagalworld.co)",
+    "album": "Genius (Pagalworld.co)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/02 Dil Meri Na Sune - Genius.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 235
+  },
+  {
+    "title": "Ding Dang - SongsMp3.Co",
+    "artist": "Amit Mishra, Antara Mitra",
+    "album": "Munna Michael - SongsMp3.Co",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/02 Ding Dang - Munna Michael.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 202
+  },
+  {
+    "title": "Gazab Ka Hai Din (PagalWorld.info)",
+    "artist": "Jubin Nautiyal, Prakriti Kakar , Tanishk Bagchi",
+    "album": "Dil Juunglee (PagalWorld.info)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/02 Gazab Ka Hai Din - Dil Juunglee 320Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 236
+  },
+  {
+    "title": "Hangover - PagalWorld.com",
+    "artist": "Salman Khan, Meet Bros Anjjan & Shreya Ghoshal",
+    "album": "Kick (2014) - PagalWorld.com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/02 Hangover - KICK (Salman Khan).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 375
+  },
+  {
+    "title": "Kamariya (Pagalworld.org)",
+    "artist": "Aastha Gill, Divya Kumar , Sachin Jigar (Pagalworld.org)",
+    "album": "Stree (Pagalworld.org)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/02 Kamariya - Stree.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 188
+  },
+  {
+    "title": "Paniyon Sa (Pagalworld.co)",
+    "artist": "Atif Aslam, Tulsi Kumar (Pagalworld.co)",
+    "album": "Satyameva Jayate (Pagalworld.co)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/02 Paniyon Sa - Satyameva Jayate.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 236
+  },
+  {
+    "title": "Tere Naal Nachna (PagalWorld.co)",
+    "artist": "Badshah , Sunanda Sharma (PagalWorld.co)",
+    "album": "Nawabzaade (PagalWorld.co)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/02 Tere Naal Nachna - Nawabzaad.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 166
+  },
+  {
+    "title": "Banjarey - MusicBadshah.Org",
+    "artist": "Yo Yo Honey Singh",
+    "album": "Fugly (2014)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/03 - Banjarey - MusicBadshah.Org.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 245
+  },
+  {
+    "title": "Allah Duhai Hai (PagalWorld.co)",
+    "artist": "Amit Mishra, Jonita Gandhi, Sriram Chandra , Raja Kumari",
+    "album": "Race 3 (PagalWorld.co)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/03 Allah Duhai Hai - Race 3 (iTunesRip).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 279
+  },
+  {
+    "title": "Beat Juunglee - PagalWorld.info",
+    "artist": "Armaan Malik, Prakriti Kakar - PagalWorld.info",
+    "album": "Dil Juunglee - PagalWorld.info",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/03 Beat Juunglee - Armaan Malik 320Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 130
+  },
+  {
+    "title": "Brown Rang - PagalWorld.com",
+    "artist": "Yo Yo Honey Singh - PagalWorld.com",
+    "album": "Yo Yo Hits (2013) - PagalWorld.com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/03 Brown Rang - Yo Yo Honey Singh (PagalWorld.com) -190Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 179
+  },
+  {
+    "title": "Khalibali - PagalWorld.info",
+    "artist": "Shivam Pathak, Sahil Hada - PagalWorld.info",
+    "album": "Padmaavat - PagalWorld.info",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/03 Khalibali - Padmavati 320Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 259
+  },
+  {
+    "title": "03 Long Drive (Khiladi 786) pagalworld.com",
+    "artist": "pagalworld.com",
+    "album": "pagalworld.com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/03 Long Drive (Khiladi 786).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 268
+  },
+  {
+    "title": "Mummy Kasam - Pagalworld.co",
+    "artist": "Payal Dev , Gurinder Seagal - Pagalworld.co",
+    "album": "Nawabzaade - Pagalworld.co",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/03 Mummy Kasam - Nawabzaade.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 178
+  },
+  {
+    "title": "Zaroorat - PagalWorld.com",
+    "artist": "Mustafa Zahid - PagalWorld.com",
+    "album": "Ek Villain - PagalWorld.com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/03 Zaroorat - Ek Villain.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 368
+  },
+  {
+    "title": "Kamariya - Pagalworld.org",
+    "artist": "Darshan Raval - Pagalworld.org",
+    "album": "Mitron - Pagalworld.org",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/04 Kamariya - Mitron.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 275
+  },
+  {
+    "title": "04 Mujh Mein Tu (Special 26) pagalworld.com",
+    "artist": "pagalworld.com",
+    "album": "pagalworld.com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/04 Mujh Mein Tu (Special 26).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 264
+  },
+  {
+    "title": "Proper Patola (Pagalworld.org)",
+    "artist": "Badshah, Diljit Dosanjh , Aastha Gill (Pagalworld.org)",
+    "album": "Namaste England (Pagalworld.org)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/04 Proper Patola - Namaste England.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 178
+  },
+  {
+    "title": "Yaar Naa Miley - PagalWorld.com",
+    "artist": "Yo Yo Honey Singh & Jasmine - PagalWorld.com",
+    "album": "Kick (2014) - PagalWorld.com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/04 Yaar Naa Miley - KICK (Yo Yo Honey Singh).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 243
+  },
+  {
+    "title": "Swag - PagalWorld.me",
+    "artist": "Pranaay, Brijesh Shandilya - PagalWorld.cool",
+    "album": "Munna Michael - PagalWorld.com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/05 Swag - Munna Michael 320Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 158
+  },
+  {
+    "title": "06   Rabba Main Toh Mar Gaya Oye (Mausam) lebewafa.com",
+    "artist": "lebewafa.com",
+    "album": "lebewafa.com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/06   Rabba Main Toh Mar Gaya Oye (Mausam).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 281
+  },
+  {
+    "title": "07._DJ_Khaled_-_I_m_the_One_feat._Justin_Bieber_Quavo_Chance_the_Rapper_Lil_Wayne_",
+    "artist": "UK Top 40 Singles Chart [TakTaraneh.Com]",
+    "album": "[TakTaraneh.Com]",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/07._DJ_Khaled_-_I_m_the_One_feat._Justin_Bieber_Quavo_Chance_the_Rapper_Lil_Wayne_.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 288
+  },
+  {
+    "title": "Bebo - PagalWorld.com",
+    "artist": "Yo Yo Honey Singh (Ft. Alfaaz) - PagalWorld.com",
+    "album": "Yo Yo Hits (2013) - PagalWorld.com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/08 Bebo - Yo Yo Honey Singh (PagalWorld.com)- 320Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 235
+  },
+  {
+    "title": "High Heels - PagalWorld.com",
+    "artist": "Yo Yo Honey Singh (Ft. Jaz Dhami)  - PagalWorld.com",
+    "album": "Yo Yo Hits (2013) - PagalWorld.com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/09 High Heels - Yo Yo Honey Singh (PagalWorld.com)- 320Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 297
+  },
+  {
+    "title": "Main Sharabi - PagalWorld.com",
+    "artist": "Yo Yo Honey Singh (Ft. Imran Aziz) - PagalWorld.com",
+    "album": "Yo Yo Hits (2013) - PagalWorld.com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/10 Main Sharabi - Yo Yo Honey Singh (PagalWorld.com)- 320Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 265
+  },
+  {
+    "title": "This Party Getting Hot - PagalWorld.com",
+    "artist": "Yo Yo Honey Singh (Ft. Jazzy B) - PagalWorld.com",
+    "album": "Yo Yo Hits (2013) - PagalWorld.com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/12 This Party Getting Hot - Yo Yo Honey Singh (PagalWorld.com)- 320Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 212
+  },
+  {
+    "title": "Punjabiyaan Di Battery - PagalWorld.com",
+    "artist": "Yo Yo Honey Singh (Ft. Mika) - PagalWorld.com",
+    "album": "Yo Yo Hits (2013) - PagalWorld.com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/13 Punjabiyaan Di Battery - Yo Yo Honey Singh (PagalWorld.com)- 320Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 198
+  },
+  {
+    "title": "Rani Tu Mein Raja - PagalWorld.com",
+    "artist": "Yo Yo Honey Singh (Ft. Mika) - PagalWorld.com",
+    "album": "Yo Yo Hits (2013) - PagalWorld.com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/15 Rani Tu Mein Raja - Yo Yo Honey Singh (PagalWorld.com)- 320Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 225
+  },
+  {
+    "title": "18573_download_dj_snake_magenta_riddim_ringtone_english_ringtones",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/18573_download_dj_snake_magenta_riddim_ringtone_english_ringtones.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 27
+  },
+  {
+    "title": "2 Many Girls - PagalWorld.com",
+    "artist": "Fazilpuria , Badshah - PagalWorld.com",
+    "album": "2 Many Girls - PagalWorld.com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/2 Many Girls [Fazilpuria n Badshah] 320Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 203
+  },
+  {
+    "title": "24K Magic",
+    "artist": "Bruno Mars",
+    "album": "24K Magic",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/24K Magic.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 226
+  },
+  {
+    "title": "Aa Re Pritam Pyaare",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Aa Re Pritam Pyaare.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 260
+  },
+  {
+    "title": "Aabaad Barbaad(MyMp3Song)",
+    "artist": "Arijit Singh",
+    "album": "Ludo[MyMp3Song.Guru]",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Aabaad Barbaad_320(MyMp3Song).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 309
+  },
+  {
+    "title": "Aahista Aahista",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Aahista Aahista.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 349
+  },
+  {
+    "title": "Aahun Aahun",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Aahun Aahun.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 290
+  },
+  {
+    "title": "Aaj Ki Raat From Stree 2",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Aaj Ki Raat From Stree 2.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 228
+  },
+  {
+    "title": "Aaja Na Ferrari Mein - PagalWorld.me",
+    "artist": "Armaan Malik (PagalWorld.me)",
+    "album": "Aaja Na Ferrari Mein (PagalWorld.me)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Aaja Na Ferrari Mein - Armaan Malik 320Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 235
+  },
+  {
+    "title": "Aankhon Aankhon - Bhaag Johnny | PagalWorld.Com",
+    "artist": "Yo Yo Honey Singh | PagalWorld.Com",
+    "album": "Bhaag Johnny | PagalWorld.Com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Aankhon Aankhon (Bhaag Johnny) Yo Yo Honey Singh 320Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 244
+  },
+  {
+    "title": "Aasman Ko Chukar",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Aasman Ko Chukar.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 274
+  },
+  {
+    "title": "Aasman Tootega Nahi - Anshuman Sharma (Official Video) - How to make a RITVIZ so",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Aasman Tootega Nahi - Anshuman Sharma (Official Video) - How to make a RITVIZ so.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 197
+  },
+  {
+    "title": "Afreen Afreen",
+    "artist": "Rahat Fateh Ali Khan & Momina Mustehsan",
+    "album": "Coke Studio Season 9: Sound of the Nation",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Afreen Afreen.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 400
+  },
+  {
+    "title": "Akhiyaan De Kol - PagalNew",
+    "artist": "Shilpa Rao",
+    "album": "Do Patti",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Akhiyaan De Kol Do Patti 320 Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 172
+  },
+  {
+    "title": "Akhiyaan Gulaab(PaglaSongs)",
+    "artist": " (PaglaSongs.Com)",
+    "album": "Akhiyaan Gulaab(PaglaSongs)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Akhiyaan-Gulaab_320(PaglaSongs).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 171
+  },
+  {
+    "title": "Alan_Walker_-_Alone[ListenVid.com]",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Alan_Walker_-_Alone[ListenVid.com].mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 163
+  },
+  {
+    "title": "Alan_Walker_-_Darkside_feat_AuRa_and_Tomine_Harket[ListenVid.com]",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Alan_Walker_-_Darkside_feat_AuRa_and_Tomine_Harket[ListenVid.com].mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 239
+  },
+  {
+    "title": "Alan_Walker_-_Sing_Me_To_Sleep[ListenVid.com]",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Alan_Walker_-_Sing_Me_To_Sleep[ListenVid.com].mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 191
+  },
+  {
+    "title": "AlBeezy Gimme Prod By Kapo",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/AlBeezy Gimme Prod By Kapo.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 182
+  },
+  {
+    "title": "ALLU ARJUN Seeti Maar",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/ALLU ARJUN Seeti Maar.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 250
+  },
+  {
+    "title": "Amatz",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Amatz.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 234
+  },
+  {
+    "title": "Ameryh - Deep End",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Ameryh - Deep End.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 193
+  },
+  {
+    "title": "Andha Kanna Paathaakka Song Master",
+    "artist": "Anirudh Ravichander",
+    "album": "MASTER 2021",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Andha Kanna Paathaakka Song Master.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 197
+  },
+  {
+    "title": "BLACK SUNRISE",
+    "artist": "Andreas Stone & Denniz Jamm",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Andreas Stone With Denniz Jamm - Black Sunrise [NCS Release].mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 231
+  },
+  {
+    "title": "Apna Bana Le(PagalWorld)",
+    "artist": "PagalWorldi.Com",
+    "album": " Instagram Reels Songs - PagalWorldi.Com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Apna-Bana-Le.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 204
+  },
+  {
+    "title": "Ararara  Mulshi Pattern  Pravin Tarde  Adarsh Shinde  Narendra Bhide  Pranit Kulkarni",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Ararara  Mulshi Pattern  Pravin Tarde  Adarsh Shinde  Narendra Bhide  Pranit Kulkarni.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 230
+  },
+  {
+    "title": "Boro Boro",
+    "artist": "Arash",
+    "album": "Arash",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Arash - Boro Boro (Syvorovv Remix).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 215
+  },
+  {
+    "title": "Arcade x O Re Piya",
+    "artist": "Sagar Swarup",
+    "album": "Arcade x O Re Piya",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Arcade x O Re Piya.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 170
+  },
+  {
+    "title": "Arcade",
+    "artist": "Duncan Laurence, FLETCHER",
+    "album": "Small Town Boy",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Arcade.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 187
+  },
+  {
+    "title": "I'll Be Waiting (Kabhi Jo Baadal) - PagalWorld.com",
+    "artist": "Arjun & Arijit Singh - PagalWorld.com",
+    "album": "I'll Be Waiting (Kabhi Jo Baadal) - PagalWorld.com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Arjun - I ll Be Waiting (Kabhi Jo Baadal) ft Arjit Singh - 320Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 241
+  },
+  {
+    "title": "Armadham",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Armadham.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 173
+  },
+  {
+    "title": "Attention",
+    "artist": "UK Top 40 Singles Chart [TakTaraneh.Com]",
+    "album": "[TakTaraneh.Com]",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Attention.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 211
+  },
+  {
+    "title": "Baarish (Atif Aslam Version) - PagalWorld.com",
+    "artist": "Atif Aslam , Shashaa Tirupati - PagalWorld.com",
+    "album": "Half Girlfriend - PagalWorld.me",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Baarish - Atif Aslam 320Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 336
+  },
+  {
+    "title": "Baarish",
+    "artist": "Mohammed Irfan, Gajendra Verma, Mithoon, Mithoon",
+    "album": "Yaariyan",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Baarish.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 374
+  },
+  {
+    "title": "Baby John - Beast Mode (From \"Baby John\")",
+    "artist": "Release",
+    "album": "Baby John - Beast Mode (From \"Baby John\")",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Baby John - Beast Mode (From Baby John) - Release.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 257
+  },
+  {
+    "title": "Bad Boy (feat. Luana Kiara)",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Bad Boy (feat. Luana Kiara).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 190
+  },
+  {
+    "title": "Badass - MassTamilan.dev",
+    "artist": "Anirudh Ravichander - MassTamilan.dev",
+    "album": "Leo - MassTamilan.dev",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Badass.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 229
+  },
+  {
+    "title": "Baila Baila Baila",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Baila Baila Baila.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 158
+  },
+  {
+    "title": "Bakar Bakar",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Bakar Bakar.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 224
+  },
+  {
+    "title": "Bamb - MyMp3Song.me",
+    "artist": "Badshah, Sukhe Muzical Doctorz",
+    "album": "Bamb - Single",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Bamb - Badshah Ft. Sukhe Muzical Doctorz_320(MyMp3Song).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 178
+  },
+  {
+    "title": "BamBholle (Pagalworld.mobi)",
+    "artist": "Viruss (Pagalworld.mobi)",
+    "album": "Laxmii Bomb (Pagalworld.mobi)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/BamBholle - Laxmii Bomb.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 220
+  },
+  {
+    "title": "Barbaadiyan",
+    "artist": "Sachet Tandon, Nikhita Gandhi, Madhubanti Bagchi, Sachin-Jigar, Sachin-Jigar, Priya Saraiya",
+    "album": "Shiddat",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Barbaadiyan.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 230
+  },
+  {
+    "title": "BEBE",
+    "artist": "6ix9ine, Anuel AA",
+    "album": "DUMMY BOY",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/BEBE.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 217
+  },
+  {
+    "title": "Behka (PagalWorld.info)",
+    "artist": "Vibha Saraf , Nucleya (PagalWorld.info)",
+    "album": "High Jack (PagalWorld.info)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Behka - High Jack 320Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 235
+  },
+  {
+    "title": "Dil Chah Raha Hai-(WapKing)",
+    "artist": "Vishal Mishra, Shilpa Rao",
+    "album": "Fighter (2024) Mp3 Songs - www.WapKing.Name",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Bekaar Dil-(DJPunjab).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 209
+  },
+  {
+    "title": "Bekhayali - Kabir Singh - BestWap",
+    "artist": "Sachet Tandon",
+    "album": "Kabir Singh",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Bekhayali_-_Kabir_Singh_320_Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 174
+  },
+  {
+    "title": "Believer(PagalWorld)",
+    "artist": "PagalWorldi.Com",
+    "album": "Viral Mp3 Songs - PagalWorldi.Com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Believer_320(PagalWorld).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 204
+  },
+  {
+    "title": "Besharam Rang  Pathaan",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Besharam Rang  Pathaan.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 258
+  },
+  {
+    "title": "Best Friends",
+    "artist": "The Weeknd",
+    "album": "Dawn FM",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Best Friends - The Weeknd.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 163
+  },
+  {
+    "title": "Bewafa (Mr-Jatt.com)",
+    "artist": "Imran Khan (Mr-Jatt.com)",
+    "album": "Unforgettable (Mr-Jatt.com)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Bewafa-(Mr-Jatt.com).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 221
+  },
+  {
+    "title": "Beyonc\u00e9 - Mi Gente (feat. J Balvin (playvk.com)",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Beyonc\u00e9 - Mi Gente (feat. J Balvin (playvk.com).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 209
+  },
+  {
+    "title": "Bhangra Paa Le (Pagalworld.Name)",
+    "artist": "Mandy Gill (Pagalworld.Name)",
+    "album": "Bhangra Paa Le (Pagalworld.Name)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Bhangra Paa Le - Mandy Gill.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 184
+  },
+  {
+    "title": "Bharat ka bachcha bachcha jay shree ram bolega dj song",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Bharat ka bachcha bachcha jay shree ram bolega dj song.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 318
+  },
+  {
+    "title": "Bhayanak Atma Feat. Gagan Mudgal",
+    "artist": "Nucleya",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Bhayanak Atma feat. Gagan Mudgal.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 210
+  },
+  {
+    "title": "Bhool Bhulaiyaa 2 Title Track",
+    "artist": "Neeraj Shridhar, Mellow D, Bob, Pritam, Tanishk Bagchi, Sameer, Mandy Gill",
+    "album": "Bhool Bhulaiyaa 2",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Bhool Bhulaiyaa 2 Title Track.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 211
+  },
+  {
+    "title": "Biba - Pritam - Pagalworld.io",
+    "artist": "Shirley Setia , Dev Negi - Pagalworld.io",
+    "album": "Biba Nachdi - Pagalworld.io",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Biba - Pritam.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 175
+  },
+  {
+    "title": "Big Dawgs",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Big Dawgs.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 190
+  },
+  {
+    "title": "Bijlee Bijlee",
+    "artist": "Harrdy Sandhu",
+    "album": "Bijlee Bijlee",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Bijlee Bijlee.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 168
+  },
+  {
+    "title": "Lovely (Ft Khalid)",
+    "artist": "Billie Eilish",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Billie Eilish - Lovely (Ft Khalid).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 200
+  },
+  {
+    "title": "Billionaire (Pagalworld.org)",
+    "artist": "Yo Yo Honey Singh, Simar Kaur , Singhsta (Pagalworld.org)",
+    "album": "Baazaar (Pagalworld.org)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Billionaire - Yo Yo Honey Singh.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 215
+  },
+  {
+    "title": "Bird Machine",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Bird Machine.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 198
+  },
+  {
+    "title": "Black Eyed Peas, Nicky Jam, Tyga - VIDA LOCA (Official Music Video)",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Black Eyed Peas, Nicky Jam, Tyga - VIDA LOCA (Official Music Video) (192  kbps).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 236
+  },
+  {
+    "title": "Blackway & Black Caviar - What's Up Danger (Spider-Man Into the Spider-Verse) [Official Audio]",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Blackway & Black Caviar - What's Up Danger (Spider-Man Into the Spider-Verse) [Official Audio].mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 222
+  },
+  {
+    "title": "Action | gidijams.com",
+    "artist": "Black Eyed Peas | gidijams.com",
+    "album": "gidijams.com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Black_Eyed_Peas_-_Action (1).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 252
+  },
+  {
+    "title": "Blood (From \"Marco\")",
+    "artist": "Ravi Basrur",
+    "album": "Blood",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Blood (From Marco) - Ravi Basrur.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 209
+  },
+  {
+    "title": "Blood Code",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Blood Code.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 176
+  },
+  {
+    "title": "Blood Sweat & Tears (from the series Arcane League of Legends)",
+    "artist": "Sheryl Lee Ralph",
+    "album": "Arcane League of Legends: Season 2",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Blood Sweat & Tears (from the series Arcane League of Legends) - Sheryl Lee Ralph.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 222
+  },
+  {
+    "title": "Bloody Sweet - MassTamilan.dev",
+    "artist": "Anirudh Ravichander, Siddharth Basrur - MassTamilan.dev",
+    "album": "Leo - MassTamilan.dev",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Bloody-Sweet.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 168
+  },
+  {
+    "title": "Blue Eyes Yo Yo Honey Singh - PagalWorld.com",
+    "artist": "Yo Yo Honey Singh - PagalWorld.com",
+    "album": "Blue Eyes - PagalWorld.com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Blue Eyes Yo Yo Honey Singh (PagalWorld.com) - 320Kbps .mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 220
+  },
+  {
+    "title": "Bol Do Na Zara (Azhar) - PagalWorld.me",
+    "artist": "Armaan Malik - PagalWorld.cool",
+    "album": "Armaan Malik Hit Songs - PagalWorld.me",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Bol Do Na Zara (Azhar) Armaan Malik 320Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 293
+  },
+  {
+    "title": "Bombay Dreams (feat. Kavita Seth)",
+    "artist": "KSHMR, Lost Stories, Kavita Seth",
+    "album": "Bombay Dreams (feat. Kavita Seth)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Bombay Dreams (feat. Kavita Seth).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 198
+  },
+  {
+    "title": "Bones",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Bones.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 165
+  },
+  {
+    "title": "Boom Boom (Lip Lock)",
+    "artist": "Sajid Wajid, Mika Singh",
+    "album": "Phatte Chak Deyange",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Boom Boom (Lip Lock).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 276
+  },
+  {
+    "title": "BOOND BOOND",
+    "artist": "Ankit Tiwari",
+    "album": "Roy",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/BOOND BOOND.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 321
+  },
+  {
+    "title": "BurjKhalifa",
+    "artist": "Shashi, Dj Khushi, Nikhita Gandhi, Madhubanti",
+    "album": "Laxmmi Bomb",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/BurjKhalifa - Laxmmi Bomb 128 Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 187
+  },
+  {
+    "title": "Burn It Down (Radio Edit)",
+    "artist": "Ahzee & Faydee",
+    "album": "Burn It Down (Radio Edit)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Burn It Down (Radio Edit).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 172
+  },
+  {
+    "title": "Butterfly Titliyan (From \"Badass Ravikumar\")",
+    "artist": "Himesh Reshammiya",
+    "album": "Butterfly Titliyan",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Butterfly Titliyan (From Badass Ravikumar) - Himesh Reshammiya.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 316
+  },
+  {
+    "title": "Buzz - MyMp3Song.me",
+    "artist": "Aastha Gill, Badshah",
+    "album": "Buzz - Single",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Buzz - Aastha Gill and Badshah_320(MyMp3Song).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 193
+  },
+  {
+    "title": "Bye Bye Bye  From Deadpool and Wolverine Soundtrack",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Bye Bye Bye  From Deadpool and Wolverine Soundtrack.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 200
+  },
+  {
+    "title": "Calendar Song",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Calendar Song.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 220
+  },
+  {
+    "title": "Call Out My Name",
+    "artist": "The Weeknd",
+    "album": "My Dear Melancholy,",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Call Out My Name.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 228
+  },
+  {
+    "title": "Can You Hear The Music",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Can You Hear The Music.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 110
+  },
+  {
+    "title": "Can't Feel My Face | LekkiLoaded.com ",
+    "artist": "The Weekend",
+    "album": "Follow Us On IG/Twitter@:-lekkiloaded",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Cant_Feel_My_Face-The_Weekend.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 215
+  },
+  {
+    "title": "Chaar Botal Vodka - PagalWorld.com",
+    "artist": "Yo Yo Honey Singh",
+    "album": "Ragini MMS 2 - PagalWorld.com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Chaar Botal Vodka Yo Yo Honey Singh 320Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 225
+  },
+  {
+    "title": "CHAL MAAR",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/CHAL MAAR.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 259
+  },
+  {
+    "title": "Chamkeela Chehra(PagalWorld.com.se)",
+    "artist": "Badshah",
+    "album": "Retropanda (Part 1) - 2022 Badshah - Pagalworld.com.se",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Chamkeela Chehra_320(PagalWorld.com.se).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 179
+  },
+  {
+    "title": "Character Dheela",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Character Dheela.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 226
+  },
+  {
+    "title": "Chogada - Pagalworld.org",
+    "artist": "Darshan Raval, Asees Kaur - Pagalworld.org",
+    "album": "Loveratri - Pagalworld.org",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Chogada - Loveratri.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 249
+  },
+  {
+    "title": "Close Your Eyes",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Close Your Eyes.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 168
+  },
+  {
+    "title": "Closer",
+    "artist": "The Chainsmokers, Halsey",
+    "album": "Closer",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Closer.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 244
+  },
+  {
+    "title": "Cold Water (feat. Justin Bieber & M\u00ed\u00d6)",
+    "artist": "Major Lazer",
+    "album": "Cold Water",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Cold Water (feat. Justin Bieber & M\u00ed\u00d6).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 185
+  },
+  {
+    "title": "Coldplay - Hymn For The Weekend [Seeb Remix] (Official Audio)",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Coldplay - Hymn For The Weekend [Seeb Remix] (Official Audio).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 213
+  },
+  {
+    "title": "cold/mess",
+    "artist": "Prateek Kuhad",
+    "album": "cold/mess",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/cold_mess.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 281
+  },
+  {
+    "title": "Come on to Me feat Sean Paul",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Come on to Me feat Sean Paul.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 212
+  },
+  {
+    "title": "Come Play from the series Arcane League of Legends",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Come Play from the series Arcane League of Legends.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 161
+  },
+  {
+    "title": "Congratulations",
+    "artist": "Post Malone, Quavo",
+    "album": "Stoney",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Congratulations.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 220
+  },
+  {
+    "title": "Cookie Thumper!",
+    "artist": "Die Antwoord",
+    "album": "Cookie Thumper!",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Cookie Thumper!.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 204
+  },
+  {
+    "title": "Coolie Disco From Coolie",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Coolie Disco From Coolie.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 129
+  },
+  {
+    "title": "Criminal",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Criminal.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 306
+  },
+  {
+    "title": "Current Laga Re",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Current Laga Re.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 226
+  },
+  {
+    "title": "Daaru Wargi (From \"Cheat India\")",
+    "artist": "Guru Randhawa",
+    "album": "Daaru Wargi (From \"Cheat India\")",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Daaru Wargi (From Cheat India) - Guru Randhawa.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 201
+  },
+  {
+    "title": "Dancin (Krono Remix)",
+    "artist": "Aaron Smith, Krono, Luvli",
+    "album": "Dancin",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Dancin (Krono Remix).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 198
+  },
+  {
+    "title": "Darasal - PagalWorld.cool",
+    "artist": "Atif Aslam - PagalWorld.cool",
+    "album": "Raabta - PagalWorld.cool",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Darasal - Raabta (Atif Aslam) 320Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 274
+  },
+  {
+    "title": "Dark Horse",
+    "artist": "Katy Perry, Juicy J",
+    "album": "PRISM",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Dark Horse.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 215
+  },
+  {
+    "title": "Darkhaast - PagalNew",
+    "artist": "Mithoon, Arijit Singh, Sunidhi Chauhan",
+    "album": "Shivaay",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Darkhaast Shivaay.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 374
+  },
+  {
+    "title": "Daru Badnaam (PagalWorld.info)",
+    "artist": "Param Singh , Kamal Kahlon (PagalWorld.info)",
+    "album": "Daru Badnaam (PagalWorld.info)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Daru Badnaam - Param n Kamal 320Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 185
+  },
+  {
+    "title": "Hey Mama",
+    "artist": "David Guetta ft Nicki Minaj & Afrojack",
+    "album": "MP3teca.com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/David Guetta ft Nicki Minaj & Afrojack \u2013 Hey Mama.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 192
+  },
+  {
+    "title": "death bed (coffee for your head)",
+    "artist": "Powfu, beabadoobee",
+    "album": "poems of the past",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/death bed (coffee for your head).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 173
+  },
+  {
+    "title": "Desi Kalakaar - PagalWorld.com",
+    "artist": "Yo Yo Honey Singh",
+    "album": "Desi Kalakaar (2014) - PagalWorld.com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Desi Kalakaar - Yo Yo Honey Singh.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 258
+  },
+  {
+    "title": "Dharala Prabhu Title Track (From Dharala Prabhu)-SAuwb3Veb-M-160k-1621313093138",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Dharala Prabhu Title Track (From Dharala Prabhu)-SAuwb3Veb-M-160k-1621313093138.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 199
+  },
+  {
+    "title": "Dheeme Dheeme (Pagalworld.Live)",
+    "artist": "Tony Kakkar (Pagalworld.Live)",
+    "album": "Dheeme Dheeme feat Neha Sharma (Pagalworld.Live)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Dheeme Dheeme - Tony Kakkar.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 155
+  },
+  {
+    "title": "Die With A Smile",
+    "artist": "Lady Gaga",
+    "album": "Die With A Smile",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Die With A Smile - Lady Gaga.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 251
+  },
+  {
+    "title": "Dil Hai Deewana",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Dil Hai Deewana.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 190
+  },
+  {
+    "title": "Dilbar (PagalWorld.co)",
+    "artist": "Neha Kakkar, Ikka, Dhvani Bhanushali (PagalWorld.co)",
+    "album": "Satyameva Jayate (PagalWorld.co)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Dilbar - Satyameva Jayate.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 184
+  },
+  {
+    "title": "Dj New song __ \u092e\u0932\u093e \u0926\u093f\u0932\u093e\u091a\u093e \u0906\u0927\u094d\u092f\u0915\u094d\u0937 \u0918\u0921\u0935 __ mala dilacha addyksh ghadav __ 2k19 New song Marathi __ (320  kbps) (api.webs.moe)",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Dj New song __ \u092e\u0932\u093e \u0926\u093f\u0932\u093e\u091a\u093e \u0906\u0927\u094d\u092f\u0915\u094d\u0937 \u0918\u0921\u0935 __ mala dilacha addyksh ghadav __ 2k19 New song Marathi __ (320  kbps) (api.webs.moe).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 165
+  },
+  {
+    "title": "Taki Taki ft. Selena Gomez Ozu",
+    "artist": "Taki Taki ft. Selena Gomez Ozu",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/DJ Snake - Taki Taki ft. Selena Gomez_ Ozuna_ Cardi B.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 231
+  },
+  {
+    "title": "DNA",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/DNA.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 223
+  },
+  {
+    "title": "Do You Love Me (From \"Baaghi 3\")",
+    "artist": "Nikhita Gandhi, Rene Bendali, Tanishk Bagchi, Rene Bendali, Tanishk Bagchi, Ahmed Khan, Tiger Shroff, Shraddha Kapoor, Riteish Deshmukh",
+    "album": "Do You Love Me (From \"Baaghi 3\")",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Do You Love Me (From 'Baaghi 3').mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 162
+  },
+  {
+    "title": "Doja Cat - Boss Bitch",
+    "artist": "Unknown Artist",
+    "album": "Doja Cat - Boss Bitch",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Doja Cat - Boss Bitch.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 134
+  },
+  {
+    "title": "Doobey (From \"Gehraiyaan\")",
+    "artist": "OAFF, Savera, Lothika, Kausar Munir",
+    "album": "Doobey",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Doobey (From 'Gehraiyaan').mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 219
+  },
+  {
+    "title": "Drake - One Dance (Lyrics) ft. Wizkid & Kyla",
+    "artist": "Drake",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Drake - One Dance (Lyrics) ft. Wizkid & Kyla.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 175
+  },
+  {
+    "title": "DripReport - Skechers (Official Music Video) Prod. OUHBOY (320  kbps)",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/DripReport - Skechers (Official Music Video) Prod. OUHBOY (320  kbps).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 109
+  },
+  {
+    "title": "Dusk Till Dawn (Radio Edit)",
+    "artist": "ZAYN, Sia",
+    "album": "Icarus Falls",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Dusk Till Dawn (Radio Edit).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 239
+  },
+  {
+    "title": "Dynamite",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Dynamite.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 199
+  },
+  {
+    "title": "Ego Radio Edit",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Ego Radio Edit.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 207
+  },
+  {
+    "title": "Egzod & Wasiu - Mutiny (xChenda Remix) [NCS Release]",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Egzod & Wasiu - Mutiny (xChenda Remix) [NCS Release].mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 220
+  },
+  {
+    "title": "Enemy (from the series Arcane League of Legends)",
+    "artist": "Imagine Dragons, JID, Arcane, League Of Legends",
+    "album": "Mercury - Act 1",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Enemy (from the series Arcane League of Legends).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 173
+  },
+  {
+    "title": "Enni Soni (PagalWorld.Live)",
+    "artist": "Guru Randhawa , Tulsi Kumar (PagalWorld.Live)",
+    "album": "Saaho (PagalWorld.Live)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Enni Soni - Saaho.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 258
+  },
+  {
+    "title": "Espresso",
+    "artist": "Sabrina Carpenter",
+    "album": "Short n' Sweet",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Espresso - Sabrina Carpenter.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 175
+  },
+  {
+    "title": "Excuses",
+    "artist": "AP Dhillon, Gurinder Gill & intense",
+    "album": "Excuses",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Excuses.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 176
+  },
+  {
+    "title": "eXplosion",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/eXplosion.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 240
+  },
+  {
+    "title": "Fade",
+    "artist": "Alan Walker",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/fade.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 29
+  },
+  {
+    "title": "Faded-pksongs.audio",
+    "artist": "Alan Walker-pksongs.audio",
+    "album": "pksongs.audio",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Faded-pksongs.audio.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 212
+  },
+  {
+    "title": "Familia (Spider-Man Into the Spider-Verse)",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Familia (Spider-Man Into the Spider-Verse).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 174
+  },
+  {
+    "title": "Family (feat. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie)",
+    "artist": "David Guetta, Bebe Rexha, Ty Dolla $ign, A Boogie Wit da Hoodie",
+    "album": "Family (feat. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Family (feat. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 159
+  },
+  {
+    "title": "Famous Funeral Dance Original Video Professional Ghana Dancing Pallbearer",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Famous Funeral Dance Original Video Professional Ghana Dancing Pallbearer.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 152
+  },
+  {
+    "title": "Fear Song",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Fear Song.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 195
+  },
+  {
+    "title": "First Class - mp3Out.In",
+    "artist": "Arijit Singh , Neeti Mohan -mp3Out.In",
+    "album": "Kalank - mp3Out.In",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/First Class Kalank Arijit Singh_320(mp3Out).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 277
+  },
+  {
+    "title": "First Kiss",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/First Kiss.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 219
+  },
+  {
+    "title": "Freedom",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Freedom.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 162
+  },
+  {
+    "title": "Fuego",
+    "artist": "DJ Snake, Sean Paul, Anitta, Tainy",
+    "album": "Carte Blanche",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Fuego.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 195
+  },
+  {
+    "title": "Galti Se Mistake - Songspkred.co",
+    "artist": "Amit Mishra & Arijit Singh - Songspkred.co",
+    "album": "Jagga Jasoos",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Galti Se Mistake 320kbps - Songspkred.co.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 203
+  },
+  {
+    "title": "Garmi (Pagalworld.name)",
+    "artist": "Neha Kakkar, Badshah (Pagalworld.name)",
+    "album": "Street Dancer 3D (Pagalworld.name)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Garmi - Street Dancer 3D.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 182
+  },
+  {
+    "title": "Garmiani - Bomb A Drop (Official Music Video) l Dim Mak Records",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Garmiani - Bomb A Drop (Official Music Video) l Dim Mak Records.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 167
+  },
+  {
+    "title": "Geralt of Rivia",
+    "artist": "Sonya Belousova, Giona Ostinelli",
+    "album": "The Witcher (Music from the Netflix Original Series)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Geralt of Rivia.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 112
+  },
+  {
+    "title": "Get Ready To Fight Again(Mr-Jatt1.com)",
+    "artist": "Mr-Jatt1.com",
+    "album": "Baaghi 2 (2018) Movie - Mr-Jatt1.com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Get Ready To Fight Again(Mr-Jatt1.com).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 196
+  },
+  {
+    "title": "GIRL LIKE ME Song - GIRL LIKE ME MP3 Download - GIRL LIKE ME Free Online - TRANSLATION Songs (2020) \u2013 Hungama",
+    "artist": "Black Eyed Peas, Shakira",
+    "album": "Shakira Mp3 Song - Pagalworld.com.se",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Girl Like Me_320(PagalWorld.com.se).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 222
+  },
+  {
+    "title": "Glassi - Honey Singh - PagalWorld.com",
+    "artist": "Yo Yo Honey Singh & Ashok Mastie",
+    "album": "Clap On The Beat - PagalWorld.com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Glassi - Ashok Mastie Ft. Yo Yo Honey Singh (PagalWorld.com).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 226
+  },
+  {
+    "title": "Glimpse of Antony Das - MassTamilan.dev",
+    "artist": "Anirudh Ravichander - MassTamilan.dev",
+    "album": "Leo - MassTamilan.dev",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Glimpse-of-Antony-Das.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 40
+  },
+  {
+    "title": "Go Go Golmaal (Full Length Song) Golmaal Again (Latest Hindi Movie Songs 20",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Go Go Golmaal (Full Length Song) Golmaal Again (Latest Hindi Movie Songs 20.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 264
+  },
+  {
+    "title": "Goblins from Mars - Genie",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Goblins from Mars - Genie.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 186
+  },
+  {
+    "title": "God Damn",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/God Damn.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 167
+  },
+  {
+    "title": "Gulabi 2.0 (PagalWorld.cool)",
+    "artist": "Amaal Mallik, Tulsi Kumar, Yash Narvekar , R.D. Burman",
+    "album": "Noor (PagalWorld.com)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Gulabi 2.0 - Noor (Amaal Mallik) 320Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 212
+  },
+  {
+    "title": "Gur Nalo Ishq Mitha The Yoyo Remake (Pagalworld.Live)",
+    "artist": "Yo Yo Honey Singh (Pagalworld.Live)",
+    "album": "Gur Nalo Ishq Mitha (Pagalworld.Live)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Gur Nalo Ishq Mitha - Yo Yo Honey Singh.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 211
+  },
+  {
+    "title": "Haaye Oye - Pagalworld.io",
+    "artist": "Qaran, Ash King - Pagalworld.io",
+    "album": "Haaye Oye - Pagalworld.io",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Haaye Oye - Qaran.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 200
+  },
+  {
+    "title": "Halamithi Habibo (From \"Beast\")",
+    "artist": "Anirudh Ravichander, Jonita Gandhi, Sri Sai Kiran",
+    "album": "Halamithi Habibo (From \"Beast\")",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Halamithi Habibo (From 'Beast').mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 279
+  },
+  {
+    "title": "Happy Happy - MyMp3Song.me",
+    "artist": "Badshah, Aastha Gill",
+    "album": "Blackmail",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Happy Happy_320(MyMp3Song).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 166
+  },
+  {
+    "title": "Hardum Humdum",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Hardum Humdum.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 188
+  },
+  {
+    "title": "Hardwell & MAKJ - Countdown [OUT NOW!]",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Hardwell & MAKJ - Countdown [OUT NOW!].mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 285
+  },
+  {
+    "title": "HardWell trance ping pong tomorrowland 2015",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/HardWell trance ping pong tomorrowland 2015.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 235
+  },
+  {
+    "title": "Hasi (Male Version)",
+    "artist": "Ami Mishra",
+    "album": "Hamari Adhuri Kahani (Original Motion Picture Soundtrack)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Hasi (Male Version).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 272
+  },
+  {
+    "title": "Havana",
+    "artist": "Camila Cabello, Young Thug",
+    "album": "Camila",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Havana.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 217
+  },
+  {
+    "title": "Hawayein - PagalWorld.com",
+    "artist": "Arijit Singh , Pritam - PagalWorld.com",
+    "album": "Jab Harry Met Sejal - PagalWorld.com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Hawayein - Jab Harry Met Sejal (Arijit Singh) 320Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 289
+  },
+  {
+    "title": "Haye-Ni-Tera-Koka-Sukh-E-Muzical-Doctors",
+    "artist": "BhajanAarti.com",
+    "album": "BhajanAarti.com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Haye-Ni-Tera-Koka-Sukh-E-Muzical-Doctors.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 180
+  },
+  {
+    "title": "Heaven",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Heaven.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 191
+  },
+  {
+    "title": "Heeriye (PagalWorld.co)",
+    "artist": "Meet Bros, Deep Money , Neha Bhasin",
+    "album": "Race 3 (PagalWorld.co)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Heeriye - Race 3 (iTunesRip).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 305
+  },
+  {
+    "title": "Heeriye feat Arijit Singh",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Heeriye feat Arijit Singh.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 194
+  },
+  {
+    "title": "Hide",
+    "artist": "Juice WRLD, Seezyn",
+    "album": "Spider-Man: Into the Spider-Verse",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Hide.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 205
+  },
+  {
+    "title": "High Rated Gabru (Mr-Jatt.com)",
+    "artist": "Guru Randhawa (Mr-Jatt.com)",
+    "album": "High Rated Gabru (Mr-Jatt.com)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/High Rated Gabru-(Mr-Jatt.com).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 213
+  },
+  {
+    "title": "Hope You Don't Mind",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Hope You Don't Mind.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 180
+  },
+  {
+    "title": "Hukum Reloaded - Tamil (From \"Jailer 2\")",
+    "artist": "Anirudh Ravichander",
+    "album": "Hukum Reloaded - Tamil (From \"Jailer 2\")",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Hukum Reloaded - Tamil (From Jailer 2) - Anirudh Ravichander.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 91
+  },
+  {
+    "title": "Hukum Thalaivar Alappara From Jailer",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Hukum Thalaivar Alappara From Jailer.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 207
+  },
+  {
+    "title": "Hulara",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Hulara.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 214
+  },
+  {
+    "title": "Hunter Vantaar From Vettaiyan",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Hunter Vantaar From Vettaiyan.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 192
+  },
+  {
+    "title": "I Feel It Coming",
+    "artist": "The Weeknd, Daft Punk",
+    "album": "Starboy",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/I Feel It Coming.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 269
+  },
+  {
+    "title": "I Got You",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/I Got You.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 191
+  },
+  {
+    "title": "I like the way you kiss me",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/I like the way you kiss me.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 142
+  },
+  {
+    "title": "I'm a Mess",
+    "artist": "Bebe Rexha",
+    "album": "Expectations",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/I'm a Mess.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 195
+  },
+  {
+    "title": "I'm an Albatraoz",
+    "artist": "AronChupa, Little Sis Nora",
+    "album": "I'm an Albatraoz",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/I'm an Albatraoz.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 166
+  },
+  {
+    "title": "If It Aint Love",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/If It Aint Love.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 203
+  },
+  {
+    "title": "If The Weeknd made lofi hip hop radio 2",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/If The Weeknd made lofi hip hop radio 2.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 1372
+  },
+  {
+    "title": "Ik Mulaqaat",
+    "artist": "Meet Bros, Altamash Faridi, Palak Muchhal",
+    "album": "Dream Girl",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Ik Mulaqaat - Dream Girl 320 Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 247
+  },
+  {
+    "title": "Ik Vaari Aa (From \"Raabta\")",
+    "artist": "Arijit Singh, Pritam, Amitabh Bhattacharya",
+    "album": "Ik Vaari Aa (From \"Raabta\")",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Ik Vaari Aa (From 'Raabta').mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 274
+  },
+  {
+    "title": "Illegal Weapon (Mr-Jatt.com)",
+    "artist": "Garry Sandhu, Jasmine Sandlas (Mr-Jatt.com)",
+    "album": "Illegal Weapon (Mr-Jatt.com)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Illegal Weapon-(Mr-Jatt.com).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 228
+  },
+  {
+    "title": "Illuminati From Aavesham",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Illuminati From Aavesham.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 212
+  },
+  {
+    "title": "Im Scared From Leo",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Im Scared From Leo.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 145
+  },
+  {
+    "title": "In Cold Blood (Baauer Remix)",
+    "artist": "alt-J",
+    "album": "In Cold Blood",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/In Cold Blood (Baauer Remix).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 171
+  },
+  {
+    "title": "In Da Getto",
+    "artist": "J. Balvin, Skrillex",
+    "album": "JOSE",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/In Da Getto.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 130
+  },
+  {
+    "title": "In the Dark",
+    "artist": "Swae Lee, Jhen\u00e9 Aiko",
+    "album": "In The Dark",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/In the Dark.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 161
+  },
+  {
+    "title": "INDUSTRY BABY",
+    "artist": "Lil Nas X, Jack Harlow",
+    "album": "MONTERO",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/INDUSTRY BABY.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 212
+  },
+  {
+    "title": "Instagram",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Instagram.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 184
+  },
+  {
+    "title": "Interstellar",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Interstellar.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 199
+  },
+  {
+    "title": "Into Your Arms (feat. Ava Max)",
+    "artist": "Witt Lowry, Ava Max",
+    "album": "Into Your Arms (feat. Ava Max)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Into Your Arms (feat. Ava Max).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 186
+  },
+  {
+    "title": "Ishq Jaisa Kuch-(DJPunjab)",
+    "artist": "Shilpa Rao",
+    "album": "New Songs - www.DJPunjab.Ink",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Ishq Jaisa Kuch-(DJPunjab).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 169
+  },
+  {
+    "title": "Ismart :: SenSongsMp3.Co",
+    "artist": "Anurag Kulkarni",
+    "album": "Ismart Shankar (2019)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Ismart - SenSongsMp3.Co.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 252
+  },
+  {
+    "title": "Tera Ghata - PagalWorld.org",
+    "artist": "Gajendra Verma - PagalWorld.org",
+    "album": "Tera Ghata - PagalWorld.org",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Isme Tera Ghata Mera Kuch Nahi Jata.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 254
+  },
+  {
+    "title": "Jaan Nisaar Arijit",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Jaan Nisaar Arijit.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 238
+  },
+  {
+    "title": "Jaana Samjho Na",
+    "artist": "Release",
+    "album": "Bhool Bhulaiyaa 3",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Jaana Samjho Na - Release.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 212
+  },
+  {
+    "title": "Jab Tak (M.S. Dhoni) - PagalWorld.me",
+    "artist": "Armaan Malik - PagalWorld.cool",
+    "album": "Armaan Malik Hit Songs - PagalWorld.me",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Jab Tak (M.S. Dhoni) Armaan Malik 320Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 174
+  },
+  {
+    "title": "Jadi Buti (feat. Nucleya & Rashmeet Kaur)",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Jadi Buti (feat. Nucleya & Rashmeet Kaur).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 163
+  },
+  {
+    "title": "Jagga Jiteya - Pagalworld.io",
+    "artist": "Daler Mehndi, Dee MC (Pagalworld.io)",
+    "album": "Uri The Surgical Strike - Pagalworld.io",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Jagga Jiteya - URI.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 191
+  },
+  {
+    "title": "Jalebi Baby",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Jalebi Baby.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 189
+  },
+  {
+    "title": "Jashn E Bahaaraa Jodhaa Akbar Hindi Music",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Jashn E Bahaaraa Jodhaa Akbar Hindi Music.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 309
+  },
+  {
+    "title": "Jeene Laga Hoon - PagalWorld.cool",
+    "artist": "Atif Aslam, Shreya Ghoshal - PagalWorld.me",
+    "album": "Atif Aslam Hit Songs - PagalWorld.com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Jeene Laga Hoon (RV) Atif Aslam - 320Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 236
+  },
+  {
+    "title": "Jennifer Lopez - On the floor feat. Pitbul ",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Jennifer Lopez - On the floor feat. Pitbul .mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 292
+  },
+  {
+    "title": "Jhoome Jo Pathaan",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Jhoome Jo Pathaan.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 208
+  },
+  {
+    "title": "Jo Bhi Main",
+    "artist": "Mohit Chauhan, A.R. Rahman, Irshad Kamil",
+    "album": "Rockstar",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Jo Bhi Main.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 273
+  },
+  {
+    "title": "Johnny Johnny - PagalWorld.com",
+    "artist": "Jigar, Priya & Madhav Krishnan - PagalWorld.com",
+    "album": "It's Entertainment - PagalWorld.com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Johnny Johnny (Its Entertainment) [PagalWorld.com]-320Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 185
+  },
+  {
+    "title": "Duaa - SongsMp3.io",
+    "artist": "Arijit Singh , Nandini Srikar",
+    "album": "Emraan Hashmi All Hits Songs FreshMaza",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Jo_20Bejhi_20Thi_20Dua_20-_20Shanghai.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 260
+  },
+  {
+    "title": "Judaai",
+    "artist": "Rekha Bhardwaj, Arijit Singh, Sachin-Jigar, Sachin Jigar, Dinesh Vijan, Priya Saraiya",
+    "album": "Badlapur (Original Motion Picture Soundtrack)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Judaai.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 272
+  },
+  {
+    "title": "Jugnu",
+    "artist": "Badshah, Nikhita Gandhi",
+    "album": "Jugnu",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Jugnu.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 230
+  },
+  {
+    "title": "Kaise Hua (From \"Kabir Singh\")",
+    "artist": "Vishal Mishra, Vishal Mishra, Manoj Muntashir, Sandeep Reddy Vanga, Shahid Kapoor, Kiara Advani",
+    "album": "Kaise Hua (From \"Kabir Singh\")",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Kaise Hua (From 'Kabir Singh').mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 234
+  },
+  {
+    "title": "Kalaastar From Honey 30",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Kalaastar From Honey 30.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 207
+  },
+  {
+    "title": "Katy Perry - Bon App\u00e9tit ft. Migos",
+    "artist": "Unknown Artist",
+    "album": "youtube.com/watch?v=dPI-mRFEIH0",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Katy Perry - Bon App\u00e9tit (Official) ft. Migos (mp3jerk.com).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 257
+  },
+  {
+    "title": "Kaun Nachdi",
+    "artist": "Guru Randhawa, Neeti Mohan, Guru Randhawa, Rajat Nagpal, Guru Randhawa",
+    "album": "Sonu Ke Titu Ki Sweety",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Kaun Nachdi.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 183
+  },
+  {
+    "title": "Kavala(PagalWorld.com.se)",
+    "artist": "Shilpa Rao, Anirudh Ravichander",
+    "album": "New Viral Songs 2023 - Pagalworld.com.se",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Kavala.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 192
+  },
+  {
+    "title": "Pray For Me || Mp3bullet.ng",
+    "artist": "Kendrick Lamar & The Weeknd",
+    "album": "Mp3bullet.ng",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Kendrick_Lamar_The_Weeknd_-_Pray_For_Me_Mp3bullet.ng.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 212
+  },
+  {
+    "title": "kgf bgm",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/kgf bgm.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 337
+  },
+  {
+    "title": "Khairiyat (Happy) (Pagalworld.Link)",
+    "artist": "Arijit Singh (Pagalworld.Link)",
+    "album": "Chhichhore (Pagalworld.Link)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Khairiyat Happy - Chhichhore.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 270
+  },
+  {
+    "title": "Khel Mandala",
+    "artist": "Ajay Gogavale",
+    "album": "Natarang",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Khel Mandala.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 287
+  },
+  {
+    "title": "Ki Kehna",
+    "artist": "Qaran",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Ki Kehna.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 166
+  },
+  {
+    "title": "Kinni Kinni(PagalWorld.com.se)",
+    "artist": "Diljit Dosanjh",
+    "album": "Ghost (2023) Diljit Dosanjh - Pagalworld.com.se",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Kinni Kinni_320.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 213
+  },
+  {
+    "title": "KSHMR & MARNIK - Mandala ft. Mitika (Official Sunburn 2016 Anthem) [Official Music Video]",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/KSHMR & MARNIK - Mandala ft. Mitika (Official Sunburn 2016 Anthem) [Official Music Video].mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 177
+  },
+  {
+    "title": "Kun Faya Kun",
+    "artist": "A.R. Rahman, Javed Ali, Mohit Chauhan, A.R. Rahman, Irshad Kamil",
+    "album": "Rockstar",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Kun Faya Kun.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 470
+  },
+  {
+    "title": "Kusu Kusu (Pagalworld.pw)",
+    "artist": "Zahrah S Khan , Dev Negi (Pagalworld.pw)",
+    "album": "Satyameva Jayate 2 (Pagalworld.pw)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Kusu Kusu - Satyameva Jayate 2.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 195
+  },
+  {
+    "title": "Kutti Story (From &quotMaster&quot)",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Kutti Story (From &quotMaster&quot).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 300
+  },
+  {
+    "title": "LA LA LA (Love You Like)",
+    "artist": "Duce Haus",
+    "album": "LA LA LA (Love You Like)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/LA LA LA (Love You Like).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 91
+  },
+  {
+    "title": "La La La",
+    "artist": "Bjorn Surrao, Shashwat Sachdev",
+    "album": "Attack",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/La La La.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 138
+  },
+  {
+    "title": "Ladio",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Ladio.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 282
+  },
+  {
+    "title": "Lahore - Guru Randhawa-(Mr-Song.Com)",
+    "artist": " Guru Randhawa,",
+    "album": "Punjabi Single [Mr-Song.Com]",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Lahore - Guru Randhawa-(Mr-Song.Com).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 197
+  },
+  {
+    "title": "Lahore X J Star Na Na Na Na Afro-Pop Mashup - Samuel Singh Prod. by King Flame",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Lahore X J Star Na Na Na Na Afro-Pop Mashup - Samuel Singh Prod. by King Flame.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 258
+  },
+  {
+    "title": "Laila Main Laila",
+    "artist": "Pawni Pandey",
+    "album": "Raees",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Laila Main Laila.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 306
+  },
+  {
+    "title": "Lak Hilaade (PagalWorld.com)",
+    "artist": "Raftaar , Manj Musik , Amy Jackson (PagalWorld.com)",
+    "album": "Lak Hilaade (PagalWorld.com)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Lak Hilaade - Manj Musik ft Raftaar - 320Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 221
+  },
+  {
+    "title": "Lashkare",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Lashkare.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 204
+  },
+  {
+    "title": "Lean On - PagalWorld.com",
+    "artist": "Major Lazer ,  MO , DJ Snake - PagalWorld.com",
+    "album": "Peace Is The Mission - PagalWorld.com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Lean On (feat. MO n DJ Snake) Major Lazer 320kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 176
+  },
+  {
+    "title": "Leke Prabhu Ka Naam feat Arijit Singh Nikhita Gandhi Tiger 3",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Leke Prabhu Ka Naam feat Arijit Singh Nikhita Gandhi Tiger 3.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 215
+  },
+  {
+    "title": "leonell-cassio-julia-mihevc-night-sky",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/leonell-cassio-julia-mihevc-night-sky.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 193
+  },
+  {
+    "title": "Less Than Zero",
+    "artist": "The Weeknd",
+    "album": "Dawn FM",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Less Than Zero.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 211
+  },
+  {
+    "title": "Let Me Down Slowly x Main Dhoondne Ko Zamaane Mein (Gravero Mashup) | Full Version",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Let Me Down Slowly x Main Dhoondne Ko Zamaane Mein (Gravero Mashup) _ Full Version.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 176
+  },
+  {
+    "title": "Let Me Love You (Justin Bieber) - 320 Kbps(9XMmp3.In)",
+    "artist": "9XMmp3.In",
+    "album": "Let Me Love You - DJ Snake, Justin Bieber - 9XMmp3.In",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Let Me Love You (Justin Bieber) - 320 Kbps(9XMmp3.In).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 206
+  },
+  {
+    "title": "Let's Nacho",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Let's Nacho.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 215
+  },
+  {
+    "title": "Levitating (feat. DaBaby)",
+    "artist": "Dua Lipa, DaBaby",
+    "album": "Levitating (feat. DaBaby)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Levitating (feat. DaBaby).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 203
+  },
+  {
+    "title": "Life Goes On",
+    "artist": "Oliver Tree",
+    "album": "Ugly is Beautiful: Shorter, Thicker & Uglier",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Life Goes On.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 161
+  },
+  {
+    "title": "Lil Nas X",
+    "artist": "HOLIDAY",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Lil Nas X - Holiday.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 155
+  },
+  {
+    "title": "Little Lotto (Mr-Jatt.com)",
+    "artist": "Nucleya (Mr-Jatt.com)",
+    "album": "Little Lotto (Mr-Jatt.com)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Little Lotto-(Mr-Jatt.com).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 235
+  },
+  {
+    "title": "Loco Contigo",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Loco Contigo.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 185
+  },
+  {
+    "title": "Lokiverse Background Score",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Lokiverse Background Score.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 156
+  },
+  {
+    "title": "Lokiverse 2.0 - MassTamilan.dev",
+    "artist": "Anirudh Ravichander - MassTamilan.dev",
+    "album": "Leo - MassTamilan.dev",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Lokiverse-2.0.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 114
+  },
+  {
+    "title": "Love Again",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Love Again.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 258
+  },
+  {
+    "title": "Love Dose - PagalWorld.com",
+    "artist": "Yo Yo Honey Singh - PagalWorld.com",
+    "album": "Desi KalaKaar - PagalWorld.com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Love Dose (Desi Kalakaar) Yo Yo Honey Singh.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 228
+  },
+  {
+    "title": "LOVE ME LOVE ME",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/LOVE ME LOVE ME.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 245
+  },
+  {
+    "title": "Love Nwantiti (Acoustic Version)",
+    "artist": "CKay",
+    "album": "Love Nwantiti (Acoustic Version)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Love Nwantiti (Acoustic Version).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 184
+  },
+  {
+    "title": "Lungi Dance - PagalWorld.com",
+    "artist": "Yo Yo Honey Singh - PagalWorld.com",
+    "album": "Yo Yo Hits (2013) - PagalWorld.com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Lungi Dance - Yo Yo Honey Singh (PagalWorld.com)- 320Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 275
+  },
+  {
+    "title": "Lut Gaye",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Lut Gaye.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 228
+  },
+  {
+    "title": "Maahi Ve - PagalNew ",
+    "artist": "A.R. Rahman",
+    "album": "Highway",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Maahi Ve Highway 320 Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 240
+  },
+  {
+    "title": "Maari Gethu-Masstamilan.in",
+    "artist": "Masstamilan.in",
+    "album": "Masstamilan.in",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Maari Gethu-Masstamilan.in.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 226
+  },
+  {
+    "title": "Maari Thara Local (Here Comes Maari)",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Maari Thara Local (Here Comes Maari).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 230
+  },
+  {
+    "title": "Machayenge - Pagalworld.io",
+    "artist": "Emiway Bantai - Pagalworld.io",
+    "album": "Machayenge - Pagalworld.io",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Machayenge - Emiway Bantai.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 153
+  },
+  {
+    "title": "Machayenge 3",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Machayenge 3.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 229
+  },
+  {
+    "title": "Mad Love",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Mad Love.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 200
+  },
+  {
+    "title": "Made In India - Guru Randhawa-(Mr-Song.Com)",
+    "artist": " Guru Randhawa,",
+    "album": "Indian POP [Mr-Song.Com]",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Made In India - Guru Randhawa-(Mr-Song.Com).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 202
+  },
+  {
+    "title": "Magenta Riddim DjPunjab.Co.in",
+    "artist": "Dj Snake DjPunjab.Co.in",
+    "album": "Dj Snake - Magenta Riddim DjPunjab.Co.in",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Magenta_Riddim_(www.DjPunjab.Co.in).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 194
+  },
+  {
+    "title": "Main Dhoondne Ko Zamaane Mein",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Main Dhoondne Ko Zamaane Mein.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 263
+  },
+  {
+    "title": "Main Hoon (SongsMp3.Co)",
+    "artist": "Tanishk Baagchi , Siddharth Mahadevan",
+    "album": "Munna Michael (SongsMp3.Co)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Main Hoon - Munna Michael.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 232
+  },
+  {
+    "title": "Main Rahoon Ya Na Rahoon - PagalWorld.me",
+    "artist": "Armaan Malik - PagalWorld.cool",
+    "album": "Armaan Malik Hit Songs - PagalWorld.me",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Main Rahoon Ya Na Rahoon - Armaan Malik 320Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 309
+  },
+  {
+    "title": "Maine Tujhe Dekha (Pagalworld.pw)",
+    "artist": "Ali Zafar (Pagalworld.pw)",
+    "album": "Jhoom (Pagalworld.pw)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Maine Tujhe Dekha.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 299
+  },
+  {
+    "title": "Main_Sharabi_Cocktail_2012_avi-www.downloaders.io",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Main_Sharabi_Cocktail_2012_avi-www.downloaders.io.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 213
+  },
+  {
+    "title": "Make You Mine (Holiday Mix)",
+    "artist": "PUBLIC",
+    "album": "Make You Mine",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Make You Mine (Holiday Mix).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 234
+  },
+  {
+    "title": "Makers Anthem",
+    "artist": "Morillo, Michelle",
+    "album": "Makers Anthem",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Makers Anthem.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 206
+  },
+  {
+    "title": "Malang Title Track (PagalWorld.Mobi)",
+    "artist": "Ved Sharma (PagalWorld.Mobi)",
+    "album": "Malang Unleash The Madness (PagalWorld.Mobi)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Malang - Title Track.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 287
+  },
+  {
+    "title": "Malhari",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Malhari.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 244
+  },
+  {
+    "title": "Manike Mage Hithe",
+    "artist": "Chamath Sangeeth, Yohani, Satheeshan",
+    "album": "Manike Mage Hithe",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Manike Mage Hithe.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 162
+  },
+  {
+    "title": "Mann Mera (From \"Table No. 21\")",
+    "artist": "Gajendra Verma",
+    "album": "Table No. 21",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Mann Mera (From 'Table No. 21').mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 198
+  },
+  {
+    "title": "Marshmello - Alone Bass Boosted",
+    "artist": "360 Bass Killer",
+    "album": "DimasaWeb.Wapkiz",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Marshmello - Alone Bass Boosted-(dimasaweb.wapkiz.com).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 199
+  },
+  {
+    "title": "Marshmello & Anne-Marie - FRIENDS *OFFICIAL FRIENDZONE ANTHEM*",
+    "artist": "Unknown Artist",
+    "album": "youtube.com/watch?v=jzD_yyEcp0M",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Marshmello .mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 231
+  },
+  {
+    "title": "Martin Garrix - Animals (Official Video)",
+    "artist": "Unknown Artist",
+    "album": "Martin Garrix - Animals (Official Video)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Martin Garrix - Animals (Official Video).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 191
+  },
+  {
+    "title": "Mast Malang Jhoom From Bade Miyan Chote Miyan",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Mast Malang Jhoom From Bade Miyan Chote Miyan.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 200
+  },
+  {
+    "title": "Master OST - Master BGM - Jukebox - Thalapathy Vijay - Anirudh Ravichander - Lok",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Master OST - Master BGM - Jukebox - Thalapathy Vijay - Anirudh Ravichander - Lok.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 1857
+  },
+  {
+    "title": "Master the Blaster - MassTamilan.io",
+    "artist": "Bjorn Surrao - MassTamilan.io",
+    "album": "Master - MassTamilan.io",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Master-the-Blaster-MassTamilan.io.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 92
+  },
+  {
+    "title": "MAUJA HI MAUJA",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/MAUJA HI MAUJA.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 245
+  },
+  {
+    "title": "Mechanical Sundariye",
+    "artist": "Armaan Malik, Shashaa Tirupati",
+    "album": "2.0 (Hindi) (Original Motion Picture Soundtrack)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Mechanical Sundariye.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 330
+  },
+  {
+    "title": "MEGATRON",
+    "artist": "Nicki Minaj",
+    "album": "MEGATRON",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/MEGATRON.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 190
+  },
+  {
+    "title": "Mehrama (From Love Aaj Kal)",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Mehrama (From Love Aaj Kal).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 249
+  },
+  {
+    "title": "Memu Aagamu",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Memu Aagamu.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 167
+  },
+  {
+    "title": "Mera Wala Dance (Pagalworld.io)",
+    "artist": "Neha Kakkar,Nakash Aziz (Pagalworld.io)",
+    "album": "Simmba (Pagalworld.io)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Mera Wala Dance - Simmba.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 199
+  },
+  {
+    "title": "Mercy - Pagalworld.org",
+    "artist": "Badshah - Pagalworld.org",
+    "album": "ONE Original Never Ends - Pagalworld.org",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Mercy - Badshah.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 162
+  },
+  {
+    "title": "Mere Mehboob Qayamat Hogi - PagalWorld.com",
+    "artist": "Yo Yo Honey Singh - PagalWorld.com",
+    "album": "PagalWorld - Yo Yo Honey Singh Songs",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Mere Mehboob Qayamat Hogi - Yo Yo Honey Singh (PagalWorld.com).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 196
+  },
+  {
+    "title": "Mere Naam Tu (From \"Zero\")",
+    "artist": "Abhay Jodhpurkar, Ajay-Atul, Irshad Kamil, Aanand L Rai, Shahrukh Khan, Anushka Sharma, Katrina Kaif",
+    "album": "Mere Naam Tu (From \"Zero\")",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Mere Naam Tu (From 'Zero').mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 338
+  },
+  {
+    "title": "MIA",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/MIA.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 210
+  },
+  {
+    "title": "MIDDLE OF THE NIGHT",
+    "artist": "Elley Duh\u00e9",
+    "album": "MIDDLE OF THE NIGHT ",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/MIDDLE-OF-THE-NIGHT.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 186
+  },
+  {
+    "title": "miguel-remember-me-duo-from-cocoofficial-video-ft-natalia-lafourcade-youtubemp3free.org",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/miguel-remember-me-duo-from-cocoofficial-video-ft-natalia-lafourcade-youtubemp3free.org.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 170
+  },
+  {
+    "title": "Mirchi (Pagalworld.mobi)",
+    "artist": "DIVINE, MC Altaf, Phenom, Stylo G (Pagalworld.mobi)",
+    "album": "Mirchi (Pagalworld.mobi)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Mirchi - DIVINE.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 193
+  },
+  {
+    "title": "MONTERO (Call Me By Your Name) (SATAN'S EXTENDED Version)",
+    "artist": "Lil Nas X",
+    "album": "MONTERO (Call Me By Your Name)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/MONTERO (Call Me By Your Name) (SATAN'S EXTENDED Version).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 170
+  },
+  {
+    "title": "Morni",
+    "artist": "Badshah",
+    "album": "Morni",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Morni - Badshah.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 171
+  },
+  {
+    "title": "Move Your Body - Badshah And Sean Paul 320kbps-(MusicBaza.Com)",
+    "artist": "MusicBaza.Com",
+    "album": "Move Your Body - Badshah And Sean Paul Mp3 - MusicBaza.Com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Move Your Body - Badshah And Sean Paul 320kbps-(MusicBaza.Com).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 196
+  },
+  {
+    "title": "Move Your Lakk",
+    "artist": "Diljit Dosanjh, Badshah, Sonakshi Sinha, Badshah, Badshah",
+    "album": "Move Your Lakk",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Move Your Lakk.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 194
+  },
+  {
+    "title": "MUNNI_2.0",
+    "artist": "only desi music",
+    "album": "MUNNI2.0",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/MUNNI_2.0.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 121
+  },
+  {
+    "title": "Na Ja (Pav Dharia) - FreshMaza.Pk",
+    "artist": "Pav Dharia - FreshMaza.Pk",
+    "album": "Na Ja FreshMaza.Pk",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Na Ja (Pav Dharia) 320Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 208
+  },
+  {
+    "title": "Na Na Na Na",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Na Na Na Na.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 209
+  },
+  {
+    "title": "Naa Ready - MassTamilan.dev",
+    "artist": "Anirudh Ravichander, Vijay, Asal Kolaar - MassTamilan.dev",
+    "album": "Leo - MassTamilan.dev",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Naa-Ready.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 248
+  },
+  {
+    "title": "Naacho Naacho",
+    "artist": "Vishal Mishra, Rahul Sipligunj, M.M. Kreem, Riya Mukherjee",
+    "album": "Rrr",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Naacho Naacho.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 214
+  },
+  {
+    "title": "Nachle Na - Dil Juunglee-(Mr-Song.Com)",
+    "artist": " Guru Randhawa,Neeti Mohan,",
+    "album": "Dil Juunglee (2018) [Mr-Song.Com]",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Nachle Na - Dil Juunglee-(Mr-Song.Com).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 220
+  },
+  {
+    "title": "Nadaan Parinde",
+    "artist": "A.R. Rahman, Mohit Chauhan, A.R. Rahman, Irshad Kamil",
+    "album": "Rockstar",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Nadaan Parinde.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 384
+  },
+  {
+    "title": "Naina - PagalWorld.com",
+    "artist": "Arijit Singh - PagalWorld.com",
+    "album": "Dangal (2016) - PagalWorld.com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Naina - Dangal (Arijit Singh) 320Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 225
+  },
+  {
+    "title": "Naina From Crew",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Naina From Crew.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 180
+  },
+  {
+    "title": "Nashe Si Chadh Gayi",
+    "artist": "Arijit Singh",
+    "album": "Befikre",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Nashe Si Chadh Gayi.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 237
+  },
+  {
+    "title": "Neha Kakkar - Makhna 320Kbps-(Dj-Music.in)",
+    "artist": "Yo Yo Honey Singh,  Neha Kakkar,  Singhsta,  Pinaki,  Sean,  Allistair",
+    "album": "Neha Kakkar - Makhna - Dj-Music.In",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Neha Kakkar - Makhna 320Kbps-(Dj-Music.in).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 208
+  },
+  {
+    "title": "New Rules",
+    "artist": "Dua Lipa",
+    "album": "Dua Lipa",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/New Rules.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 209
+  },
+  {
+    "title": "New Thang",
+    "artist": "Redfoo",
+    "album": "New Thang",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/New Thang.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 226
+  },
+  {
+    "title": "No Brainer - Justin Bieber,DJ Khaled - 320Kbps(GoldMp3.In)",
+    "artist": "GoldMp3.In",
+    "album": "No Brainer - Justin Bieber n DJ Khaled - GoldMp3.In",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/No Brainer - Justin Bieber,DJ Khaled - 320Kbps(GoldMp3.In).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 260
+  },
+  {
+    "title": "No Lie",
+    "artist": "Sean Paul, Dua Lipa",
+    "album": "Mad Love The Prequel",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/No Lie.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 221
+  },
+  {
+    "title": "Nothing Is Lost You Give Me Strength",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Nothing Is Lost You Give Me Strength.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 267
+  },
+  {
+    "title": "O Saathi Tere Bina(Mr-Jatt1.com)",
+    "artist": "Mr-Jatt1.com",
+    "album": "Baaghi 2 (2018) Movie - Mr-Jatt1.com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/O Saathi Tere Bina(Mr-Jatt1.com).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 251
+  },
+  {
+    "title": "O Sajni Re(PagalWorld.com.sb)",
+    "artist": "Arijit Singh",
+    "album": "Laapataa Ladies - 2024 - Pagalworld.com.sb",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/O Sajni Re.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 170
+  },
+  {
+    "title": "O Saki Saki (Pagalworld.Live)",
+    "artist": "Neha Kakkar,Tulsi Kumar, B Praak (Pagalworld.Live)",
+    "album": "Batla House (Pagalworld.Live)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/O Saki Saki - Batla House.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 191
+  },
+  {
+    "title": "Ocho Cinco (Cesqeaux Remix)",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Ocho Cinco (Cesqeaux Remix).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 214
+  },
+  {
+    "title": "Ocho Cinco",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Ocho Cinco.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 222
+  },
+  {
+    "title": "Odimaga",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Odimaga.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 171
+  },
+  {
+    "title": "Oh Bande(VVIPJatt.Com)",
+    "artist": "Dilraj Dhillon(VVIPJatt.Com)",
+    "album": "Oh Bande(VVIPJatt.Com)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Oh Bande(VVIPJatt.Com).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 162
+  },
+  {
+    "title": "Old Town Road (Remix) [RohitSharma.co]",
+    "artist": "Lil Nas X/Billy Ray Cyrus",
+    "album": "7 EP",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Old Town Road (Remix) [RohitSharma.co].mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 157
+  },
+  {
+    "title": "Alan Walker, Sabrina Carpenter, Farruko - On My Way(jiomix.in)",
+    "artist": "Jiomix.in",
+    "album": "On My Way (Alan Walker) Sabrina Carpenter, Farruko - Jiomix.in",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/On My Way - Alan Walker_320(Mp3Paji.In).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 216
+  },
+  {
+    "title": "Once Upon a Time",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Once Upon a Time.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 143
+  },
+  {
+    "title": "One Bottle Down - PagalWorld.com",
+    "artist": "Yo Yo Honey Singh - PagalWorld.com",
+    "album": "One Bottle Down - PagalWorld.com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/One Bottle Down - Yo Yo Honey Singh 320Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 196
+  },
+  {
+    "title": "One Right Now",
+    "artist": "Post Malone, The Weeknd",
+    "album": "One Right Now",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/One Right Now.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 193
+  },
+  {
+    "title": "OneRepublic-I-Aint-Worried",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/OneRepublic-I-Aint-Worried.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 149
+  },
+  {
+    "title": "Open Hearts",
+    "artist": "The Weeknd",
+    "album": "Hurry Up Tomorrow",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Open Hearts - The Weeknd.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 234
+  },
+  {
+    "title": "Ordinary Person (Leo)(PagalWorldl)",
+    "artist": "ikitha Gandh(www.Pagalworldl.Com)",
+    "album": "Ordinary Person (Leo)(PagalWorldl)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Ordinary Person (Leo)_320(PagalWorldl).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 138
+  },
+  {
+    "title": "OSajna",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/OSajna.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 208
+  },
+  {
+    "title": "OTE feat. Dinah Smith, COE - I Will Be Ok (COE Remix)",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/OTE feat. Dinah Smith, COE - I Will Be Ok (COE Remix).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 170
+  },
+  {
+    "title": "Otilia - Bilionera",
+    "artist": "Unknown Artist",
+    "album": "Otilia - Bilionera",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Otilia - Bilionera.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 185
+  },
+  {
+    "title": "Otilia-Diamante-GrandBD-Tk-(grandbd.wapkiz.com)",
+    "artist": "English Exclusive Zone",
+    "album": "(GrandBD.Tk)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Otilia-Diamante-GrandBD-Tk-(grandbd.wapkiz.com).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 173
+  },
+  {
+    "title": "Paani Paani",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Paani Paani.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 174
+  },
+  {
+    "title": "Pailwan Ala Ho - Kesari (Saffron) - Virat M, Mahesh M, Vikram G, Mohan J - Yugg ",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Pailwan Ala Ho - Kesari (Saffron) - Virat M, Mahesh M, Vikram G, Mohan J - Yugg .mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 144
+  },
+  {
+    "title": "Paris feat Cris Cab",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Paris feat Cris Cab.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 195
+  },
+  {
+    "title": "Party With the Bhoothnath - PagalWorld.com",
+    "artist": "Yo Yo Honey Singh - PagalWorld.com",
+    "album": "Bhoothnath Returns - PagalWorld.com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Party With the Bhoothnath - Yo Yo Honey Singh (Bhoothnath Returns) 320Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 321
+  },
+  {
+    "title": "Pasoori",
+    "artist": "Shae Gill, Ali Sethi, Ali Sethi, Zulfiqar Jabbar Khan, Ali Sethi, Fazal Abbas, Abdullah Siddiqui, Xulfi, Abdullah Siddiqui, Sherry Khattak",
+    "album": "Pasoori",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Pasoori.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 224
+  },
+  {
+    "title": "Patola - Blackmail-(Mr-Song.Com)",
+    "artist": " Guru Randhawa,",
+    "album": "Blackmail (2018) [Mr-Song.Com]",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Patola - Blackmail-(Mr-Song.Com).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 184
+  },
+  {
+    "title": "Payal",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Payal.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 226
+  },
+  {
+    "title": "Peaky Blinder",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Peaky Blinder.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 159
+  },
+  {
+    "title": "Pehle Bhi Main(PaglaSongs)",
+    "artist": "Vishal Mishra (PaglaSongs.Com)",
+    "album": "Pehle Bhi Main(PaglaSongs)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Pehle-Bhi-Main.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 250
+  },
+  {
+    "title": "Pehli Dafa (PagalWorld.me)",
+    "artist": "Atif Aslam , Shiraz Uppal (PagalWorld.me)",
+    "album": "Pehli Dafa  (PagalWorld.me)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Pehli Dafa - Atif Aslam 320Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 298
+  },
+  {
+    "title": "People",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/People.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 184
+  },
+  {
+    "title": "Perfect",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Perfect.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 263
+  },
+  {
+    "title": "Peru",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Peru.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 147
+  },
+  {
+    "title": "Petta Theme From Petta",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Petta Theme From Petta.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 106
+  },
+  {
+    "title": "Phir Mohabbat - PagalWorld.info",
+    "artist": "Arijit Singh - PagalWorld.click",
+    "album": "Emraan Hashmi All Hits Songs PagalWorld",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Phir Mohabbat - Murder 2 320Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 330
+  },
+  {
+    "title": "Phir Se Ud Chala",
+    "artist": "Mohit Chauhan, A.R. Rahman, Irshad Kamil",
+    "album": "Rockstar",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Phir Se Ud Chala.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 268
+  },
+  {
+    "title": "Phir Wahi - Songspkred.co",
+    "artist": "Arijit Singh - Songspkred.co",
+    "album": "Jagga Jasoos",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Phir Wahi 320kbps - Songspkred.co.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 253
+  },
+  {
+    "title": "Photo - Pagalworld.io",
+    "artist": "Karan Sehmbi, Tanishk Bagchi - Pagalworld.io",
+    "album": "Luka Chuppi - Pagalworld.io",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Photo - Luka Chuppi.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 177
+  },
+  {
+    "title": "Play Hard (feat. Ne-Yo & Akon) (New Edit)",
+    "artist": "David Guetta, Akon, Ne-Yo",
+    "album": "Play Hard (feat. Ne-Yo & Akon)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Play Hard (feat. Ne-Yo & Akon) (New Edit).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 208
+  },
+  {
+    "title": "Players",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Players.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 171
+  },
+  {
+    "title": "Post Malone, Swae Lee - Sunflower (Spider-Man Into the Spider-Verse)",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Post Malone, Swae Lee - Sunflower (Spider-Man Into the Spider-Verse).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 161
+  },
+  {
+    "title": "Problem",
+    "artist": "Ariana Grande, Iggy Azalea",
+    "album": "My Everything",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Problem.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 193
+  },
+  {
+    "title": "Psy ft. Snoop Dogg - Hangover (Official Audio)",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Psy ft. Snoop Dogg - Hangover (Official Audio).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 309
+  },
+  {
+    "title": "Ra Ra Rakkamma",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Ra Ra Rakkamma.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 218
+  },
+  {
+    "title": "Raataan Lambiyan (From \"Shershaah\")",
+    "artist": "Tanishk Bagchi, Jubin Nautiyal, Asees Kaur",
+    "album": "Raataan Lambiyan",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Raataan Lambiyan (From 'Shershaah').mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 230
+  },
+  {
+    "title": "Radhe Title Track",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Radhe Title Track.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 181
+  },
+  {
+    "title": "RAIL GADDI",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/RAIL GADDI.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 227
+  },
+  {
+    "title": "Ram Siya Ram (320 kbps)",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Ram Siya Ram (320 kbps).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 230
+  },
+  {
+    "title": "Rangtari (Loveratri) Yo Yo Honey Singh 320kbps(320Kbps.In)",
+    "artist": "320Kbps.iN",
+    "album": "Rangtaari | Rangtari (Loveratri) Yo Yo Honey Singh Mp3 Song - 320Kbps.iN",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Rangtari (Loveratri) Yo Yo Honey Singh 320kbps(320Kbps.In).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 176
+  },
+  {
+    "title": "Ratata (Leo)",
+    "artist": "Anirudh Ravichander (pagalworld.com)",
+    "album": "Ratata (Leo)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Ratata.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 131
+  },
+  {
+    "title": "Ready To Move (Mr-Jatt.com)",
+    "artist": "Armaan Malik (Mr-Jatt.com)",
+    "album": "Ready To Move (Mr-Jatt.com)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Ready To Move-(MrJatt.Club).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 191
+  },
+  {
+    "title": "Rich Brian & EARTHGANG - Act Up (Official Visualizer)",
+    "artist": "Rich Brian, EARTHGANG",
+    "album": "Act Up",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Rich Brian & EARTHGANG - Act Up (Official Visualizer).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 196
+  },
+  {
+    "title": "Ritviz Udd Gaye Official Audio]",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Ritviz Udd Gaye Official Audio].mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 180
+  },
+  {
+    "title": "Ritviz-Dev (Official Unreleased)",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Ritviz-Dev (Official Unreleased).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 87
+  },
+  {
+    "title": "Riva Riva Riva song_lQx4AqtF42E",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Riva Riva Riva song_lQx4AqtF42E.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 239
+  },
+  {
+    "title": "Roar",
+    "artist": "Katy Perry",
+    "album": "PRISM",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Roar.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 223
+  },
+  {
+    "title": "Rock Tha Party - PagalWorld.com",
+    "artist": "Bombay Rockers - PagalWorld.com",
+    "album": "Rocky Handsome - PagalWorld.com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Rock Tha Party - Rocky Handsome - 320Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 211
+  },
+  {
+    "title": "Rockabye (feat. Sean Paul & Anne-Marie)",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Rockabye (feat. Sean Paul & Anne-Marie).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 250
+  },
+  {
+    "title": "Rockstar_Ilkay_Sencan_Dynoro_-_(ColdMP3.com)",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Rockstar_Ilkay_Sencan_Dynoro_-_(ColdMP3.com).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 212
+  },
+  {
+    "title": "Rolex bgm Flute Version",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Rolex bgm Flute Version.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 76
+  },
+  {
+    "title": "Rowdy Baby-Masstamilan.In",
+    "artist": "Masstamilan.In",
+    "album": "Maari 2",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Rowdy Baby-Masstamilan.In.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 283
+  },
+  {
+    "title": "Run It Up",
+    "artist": "Hanumankind",
+    "album": "Run It Up",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Run It Up - Hanumankind.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 173
+  },
+  {
+    "title": "Run It",
+    "artist": "DJ Snake, Rick Ross, Rich Brian",
+    "album": "Run It",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Run It.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 163
+  },
+  {
+    "title": "Saadda Haq",
+    "artist": "Mohit Chauhan, A.R. Rahman, Irshad Kamil",
+    "album": "Rockstar",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Saadda Haq.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 362
+  },
+  {
+    "title": "Saami Saami",
+    "artist": "Sunidhi Chauhan, Devi Sri Prasad, Raqueeb Alam",
+    "album": "Pushpa The Rise Part - 01",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Saami Saami.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 227
+  },
+  {
+    "title": "Saaz Hyo Tujha",
+    "artist": "Onkarswaroop, Onkarswaroop, Suhas Munde",
+    "album": "Baban",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Saaz Hyo Tujha.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 292
+  },
+  {
+    "title": "SAD GIRLZ LUV MONEY",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/SAD GIRLZ LUV MONEY.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 196
+  },
+  {
+    "title": "Sadi Gali",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Sadi Gali.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 264
+  },
+  {
+    "title": "Safari",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Safari.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 187
+  },
+  {
+    "title": "Sage - Ritviz(PaglaSongs)",
+    "artist": "PaglaSongs.Com",
+    "album": "Indian Pop Mp3 Songs - PaglaSongs.Com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Sage(PaglaSongs).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 244
+  },
+  {
+    "title": "Sandhanam Theme Background Score",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Sandhanam Theme Background Score.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 106
+  },
+  {
+    "title": "Satisfya (Imran Khan) - www.Pagalworld.com",
+    "artist": "Imran Khan www.Pagalworld.com",
+    "album": "Satisfya - www.Pagalworld.com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Satisfya Imran Khan.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 180
+  },
+  {
+    "title": "Saware - PagalNew",
+    "artist": "Pritam, Arijit Singh",
+    "album": "Phantom",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Saware Phantom.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 321
+  },
+  {
+    "title": "Say My Name",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Say My Name.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 199
+  },
+  {
+    "title": "Scars To Your Beautiful",
+    "artist": "Alessia Cara",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/scars-to-your-beautiful-alessia-cara-lyrics.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 230
+  },
+  {
+    "title": "Senorita - Camila Cabello 320 Kbps-(Fun2Desi.Com)",
+    "artist": "Fun2Desi.Com",
+    "album": "Senorita - Camila Cabello - Fun2Desi.Com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Senorita - Camila Cabello 320 Kbps-(Fun2Desi.Com).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 191
+  },
+  {
+    "title": "Sexy And I Know It",
+    "artist": "LMFAO",
+    "album": "Sorry For Party Rocking",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Sexy And I Know It.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 199
+  },
+  {
+    "title": "Shaitan Ka Saala (From \"Housefull 4\")",
+    "artist": "Sohail Sen, Vishal Dadlani, Sohail Sen, Farhad Samji, Farhad Samji, Akshay Kumar, Riteish Deshmukh, Bobby Deol, Kriti Sanon, Pooja Hegde, Kriti Kharbanda",
+    "album": "Shaitan Ka Saala (From \"Housefull 4\")",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Shaitan Ka Saala (From 'Housefull 4').mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 147
+  },
+  {
+    "title": "Shayad (Pagalworld.mobi)",
+    "artist": "Arijit Singh (Pagalworld.mobi)",
+    "album": "Shayad (Pagalworld.mobi)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Shayad - Love Aaj Kal.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 247
+  },
+  {
+    "title": "Sher Khul Gaye - PagalNew",
+    "artist": "Benny Dayal, Shilpa Rao",
+    "album": "Fighter",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Sher Khul Gaye Fighter 320 Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 180
+  },
+  {
+    "title": "She Move It Like RetroPunjab.com",
+    "artist": "Badshah",
+    "album": " RetroPunjab.com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/She_Move_It_Like_Badshah_324d241bf2444ffc263471f3dfbad668_320.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 181
+  },
+  {
+    "title": "Side To Side",
+    "artist": "Ariana Grande, Nicki Minaj",
+    "album": "Dangerous Woman",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Side To Side.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 226
+  },
+  {
+    "title": "Slowly slowly - guru randhawa - pitbull(Mp3Paji.In)",
+    "artist": " Guru Randhawa,Pitbull,",
+    "album": "Slowly slowly - guru randhawa - pitbull",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/slowly slowly - guru randhawa - pitbull_320(mp3paji.in).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 214
+  },
+  {
+    "title": "Snakes from the series Arcane League of Legends",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Snakes from the series Arcane League of Legends.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 161
+  },
+  {
+    "title": "So Baby - MassTamilan.io",
+    "artist": "Anirudh Ravichander, Ananthakrrishnan - MassTamilan.io",
+    "album": "Doctor - MassTamilan.io",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/So-Baby-MassTamilan.io.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 252
+  },
+  {
+    "title": "Sock Them - Divine - BestWap",
+    "artist": "Divine",
+    "album": "Sock Them",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Sock Them - Divine 320 Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 149
+  },
+  {
+    "title": "Solo (feat. Demi Lovato)",
+    "artist": "Clean Bandit, Demi Lovato",
+    "album": "What Is Love?",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Solo (feat. Demi Lovato).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 222
+  },
+  {
+    "title": "Solo Laila (Mp3Song.fm)",
+    "artist": "Ipsitaa (Mp3Song.fm)",
+    "album": "Solo Laila (Mp3Song.fm)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Solo Laila - (Mp3Song.fm).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 206
+  },
+  {
+    "title": "Soni Soni From Ishq Vishk Rebound",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Soni Soni From Ishq Vishk Rebound.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 176
+  },
+  {
+    "title": "Sooryavanshi Theme",
+    "artist": "Lijo George, Lijo George-Dj Chetas",
+    "album": "Sooryavanshi",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Sooryavanshi Theme.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 108
+  },
+  {
+    "title": "Sorry (Justin Bieber) - 320 Kbps(9XMmp3.In)",
+    "artist": "9XMmp3.In",
+    "album": "Sorry - Justin Bieber - 9XMmp3.In",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Sorry (Justin Bieber) - 320 Kbps(9XMmp3.In).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 200
+  },
+  {
+    "title": "Sorry For Party Rocking",
+    "artist": "LMFAO",
+    "album": "Sorry For Party Rocking",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Sorry For Party Rocking.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 204
+  },
+  {
+    "title": "Sound of Salaar (From _Salaar Cease Fire_) (320 kbps)",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Sound of Salaar (From _Salaar Cease Fire_) (320 kbps).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 175
+  },
+  {
+    "title": "Srivalli",
+    "artist": "Javed Ali, Devi Sri Prasad, Raqueeb Alam",
+    "album": "Pushpa The Rise Part - 01",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Srivalli.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 224
+  },
+  {
+    "title": "Start a Riot",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Start a Riot.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 171
+  },
+  {
+    "title": "STAY",
+    "artist": "The Kid LAROI, Justin Bieber",
+    "album": "STAY",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/STAY.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 141
+  },
+  {
+    "title": "Sugar & Brownies",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Sugar & Brownies.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 197
+  },
+  {
+    "title": "Suit Suit (Mr-Jatt.com)",
+    "artist": "Arjun, Guru Randhawa (Mr-Jatt.com)",
+    "album": "Suit Suit (Mr-Jatt.com)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Suit Suit-(Mr-Jatt.com).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 190
+  },
+  {
+    "title": "Sulthan Lyrical (Hindi) | KGF Chapter 2 | Rocking Star Yash | Prashanth Neel | Ravi Basrur |Hombale",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Sulthan Lyrical (Hindi) _ KGF Chapter 2 _ Rocking Star Yash _ Prashanth Neel _ Ravi Basrur _Hombale.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 233
+  },
+  {
+    "title": "Sunny Sunny - PagalWorld.com",
+    "artist": "Yo Yo Honey Singh & Neha Kakkar",
+    "album": "Yaariyan - PagalWorld.com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Sunny Sunny Yo Yo Honey Singh (Yaariyan) (PagalWorld.com).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 243
+  },
+  {
+    "title": "Suno- Na Sangemarmar",
+    "artist": "Arijit Singh, Jeet Gangulli, Kausar Munir",
+    "album": "Youngistaan",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Suno- Na Sangemarmar.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 201
+  },
+  {
+    "title": "Superstar",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Superstar.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 197
+  },
+  {
+    "title": "Swag Se Swagat - Tiger Zinda Hai 128kbps(Mp3Paji.In)",
+    "artist": " Neha Bhasin,Vishal Dadlani,",
+    "album": "Tiger Zinda Hai 2017 Movie Songs",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Swag Se Swagat_320(Mp3Paji.In).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 169
+  },
+  {
+    "title": "Swalla Nicki Minaj Feat Ty Dolla Sign 320 kbps(mr-jatt2.com)",
+    "artist": "Mr-Jatt2.Com",
+    "album": "Swalla Nicki Minaj Feat Ty Dolla Sign - Mr-Jatt2.Com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Swalla Nicki Minaj Feat Ty Dolla Sign 320 kbps(mr-jatt2.com).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 235
+  },
+  {
+    "title": "Swan Song",
+    "artist": "Saweetie, NIKI",
+    "album": "Shang-Chi and The Legend of The Ten Rings: The Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Swan Song.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 167
+  },
+  {
+    "title": "Sweet Dreams",
+    "artist": "Alan Walker, Imanbek",
+    "album": "Sweet Dreams",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Sweet Dreams.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 138
+  },
+  {
+    "title": "Swish Swish",
+    "artist": "Katy Perry, Nicki Minaj",
+    "album": "Witness",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Swish Swish.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 242
+  },
+  {
+    "title": "SZA, The Weeknd, Travis Scott - Power Is Power",
+    "artist": "Unknown Artist",
+    "album": "SZA, The Weeknd, Travis Scott - Power Is Power",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/SZA, The Weeknd, Travis Scott - Power Is Power.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 211
+  },
+  {
+    "title": "Tabahi",
+    "artist": "Badshah",
+    "album": "Tabahi",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Tabahi.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 168
+  },
+  {
+    "title": "Taras From Munjya",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Taras From Munjya.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 188
+  },
+  {
+    "title": "Tareefan - MyMp3Song.me",
+    "artist": "Badshah",
+    "album": "Veere Di Wedding",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Tareefan_320(MyMp3Song).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 186
+  },
+  {
+    "title": "Tattad Tattad",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Tattad Tattad.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 297
+  },
+  {
+    "title": "Tauba Tauba From Bad Newz",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Tauba Tauba From Bad Newz.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 207
+  },
+  {
+    "title": "Taylor Swift - \u2026Ready For It?",
+    "artist": "Unknown Artist",
+    "album": "youtube.com/watch?v=wIft-t-MQuE",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Taylor Swift - \u2026Ready For It (mp3jerk.com).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 210
+  },
+  {
+    "title": "Tere Hawaale(PagalWorld.com.se)",
+    "artist": "Arijit Singh, Shilpa Rao",
+    "album": "Laal Singh Chaddha (2022) - Pagalworld.com.se",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Tere Hawaale_320(PagalWorld.com.se).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 350
+  },
+  {
+    "title": "Tere Liye - PagalNew ",
+    "artist": "Atif Aslam, Shreya Ghoshal",
+    "album": "Prince",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Tere Liye Prince 320 Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 279
+  },
+  {
+    "title": "Tere Sang Yaara - PagalWorld.cool",
+    "artist": "Atif Aslam - PagalWorld.me",
+    "album": "Atif Aslam Hit Songs - PagalWorld.com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Tere Sang Yaara (Rustom) Atif Aslam - 320Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 290
+  },
+  {
+    "title": "Tere Te (Mr-Jatt.com)",
+    "artist": "Ikka, Guru Randhawa (Mr-Jatt.com)",
+    "album": "Tere Te (Mr-Jatt.com)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Tere Te-(Mr-Jatt.com).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 193
+  },
+  {
+    "title": "Tere-Thumke-Sapna-Choudhary-Nanu-Ki-Jaanu-Abhay-Deol-Sapna-Choudhary",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Tere-Thumke-Sapna-Choudhary-Nanu-Ki-Jaanu-Abhay-Deol-Sapna-Choudhary.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 151
+  },
+  {
+    "title": "Teri Jhuki Nazar - PagalNew ",
+    "artist": "Pritam, Shafqat Amanat Ali",
+    "album": "Murder 3",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Teri Jhuki Nazar Murder 3 320 Kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 279
+  },
+  {
+    "title": "The Black Eyed Peas, J Balvin - RITMO (Letra/)",
+    "artist": "Unknown Artist",
+    "album": "The Black Eyed Peas, J Balvin - RITMO (Letra/)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/The Black Eyed Peas, J Balvin - RITMO (Letra ).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 250
+  },
+  {
+    "title": "The Last Dance",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/The Last Dance.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 83
+  },
+  {
+    "title": "The Monster Song",
+    "artist": "Ravi Basrur, Adithi Sagar",
+    "album": "KGF Chapter 2 - Hindi",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/The Monster Song.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 160
+  },
+  {
+    "title": "The Weeknd - 103.5 DAWN FM",
+    "artist": "The Weeknd",
+    "album": "Sacrifice",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/The Weeknd - 103.5 DAWN FM.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 3132
+  },
+  {
+    "title": "The Weeknd",
+    "artist": "Blinding Lights",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/The Weeknd - Blinding Lights.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 201
+  },
+  {
+    "title": "The Weeknd - In Your Eyes (Official Audio)",
+    "artist": "Unknown Artist",
+    "album": "The Weeknd - In Your Eyes (Official Audio)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/The Weeknd - In Your Eyes (Official Audio).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 238
+  },
+  {
+    "title": "The Weeknd - Save Your Tears (Audio)",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/The Weeknd - Save Your Tears (Audio).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 216
+  },
+  {
+    "title": "Think",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Think.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 211
+  },
+  {
+    "title": "This Girl (Kungs Vs. Cookin_ On 3 Burners)",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/This Girl (Kungs Vs. Cookin_ On 3 Burners).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 195
+  },
+  {
+    "title": "This Is What You Came For",
+    "artist": "Calvin Harris, Rihanna",
+    "album": "This Is What You Came For",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/This Is What You Came For.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 222
+  },
+  {
+    "title": "This Party Is Over Now (Mitron)(DjPaji.Com)",
+    "artist": "Yo Yo Honey Singh",
+    "album": "Mitron - DjPaji.Com",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/This Party Is Over Now (Mitron)_320(DjPaji.Com).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 215
+  },
+  {
+    "title": "Thunder",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Thunder.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 187
+  },
+  {
+    "title": "Thurupu Cheetu",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Thurupu Cheetu.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 96
+  },
+  {
+    "title": "Thutmose - Memories (SpiderMan Into The SpiderVerse Soundtrack) (Official Music Video)",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Thutmose - Memories (SpiderMan Into The SpiderVerse Soundtrack) (Official Music Video).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 204
+  },
+  {
+    "title": "Tip Pon It",
+    "artist": "Sean Paul, Major Lazer",
+    "album": "Mad Love The Prequel",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Tip Pon It.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 221
+  },
+  {
+    "title": "Tip Tip - Pagalworld.org",
+    "artist": "Badshah, Jonita Gandhi - Pagalworld.org",
+    "album": "Lockdown - Pagalworld.org",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Tip Tip Barsa Pani - Badshah.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 186
+  },
+  {
+    "title": "Tonight Im Lovin You",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Tonight Im Lovin You.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 231
+  },
+  {
+    "title": "Toofan Lyrical (Hindi) | KGF Chapter 2 | Rocking Star Yash |Prashanth Neel|Ravi Basrur |HombaleFilms",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Toofan Lyrical (Hindi) _ KGF Chapter 2 _ Rocking Star Yash _Prashanth Neel_Ravi Basrur _HombaleFilms.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 218
+  },
+  {
+    "title": "Top Lesi Poddi",
+    "artist": "Sagar, Geetha Madhuri",
+    "album": "Idharammayilatho",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Top Lesi Poddi.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 257
+  },
+  {
+    "title": "Top Tucker",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Top Tucker.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 205
+  },
+  {
+    "title": "Trevor Daniel - Falling",
+    "artist": "Unknown Artist",
+    "album": "Trevor Daniel - Falling",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Trevor Daniel - Falling.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 159
+  },
+  {
+    "title": "TU JO MILAW-IN",
+    "artist": "K.K., PRITAM, KAUSAR MUNIR",
+    "album": "BAJRANGI BHAIJAAN",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/TU JO MILAW-IN.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 242
+  },
+  {
+    "title": "Tu Meri",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Tu Meri.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 257
+  },
+  {
+    "title": "Tujhe Bhula Diya",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Tujhe Bhula Diya.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 279
+  },
+  {
+    "title": "Tujhe Kitna Chahein Aur (Film Version)",
+    "artist": "Jubin Nautiyal, Mithoon, Mithoon",
+    "album": "Kabir Singh",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Tujhe Kitna Chahein Aur (Film Version).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 276
+  },
+  {
+    "title": "Tujhe Kitna Chahne Lage (Pagalworld.Live)",
+    "artist": "Arijit Singh (Pagalworld.Live)",
+    "album": "Kabir Singh (Pagalworld.Live)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Tujhe Kitna Chahne Lage - Kabir Singh.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 284
+  },
+  {
+    "title": "Tujhe Sochta Hoon (From \"Jannat 2\")",
+    "artist": "Unknown Artist",
+    "album": "Tujhe Sochta Hoon (From \"Jannat 2\")",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Tujhe Sochta Hoon (From Jannat 2 ).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 313
+  },
+  {
+    "title": "Tujhse Naraaz Nahin Zindagi (Male)  Masoom Songs  Naseeruddin Shah  Jugal Hansraj  Filmigaane",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Tujhse Naraaz Nahin Zindagi (Male)  Masoom Songs  Naseeruddin Shah  Jugal Hansraj  Filmigaane.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 88
+  },
+  {
+    "title": "Tum Ho",
+    "artist": "Mohit Chauhan, Suzanne D'mello, A.R. Rahman, Irshad Kamil",
+    "album": "Rockstar",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Tum Ho.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 316
+  },
+  {
+    "title": "Tum Mile Dil Khile(Arijit Singh version) (1)",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Tum Mile Dil Khile(Arijit Singh version) (1).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 200
+  },
+  {
+    "title": "Twist",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Twist.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 299
+  },
+  {
+    "title": "Uff",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Uff.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 272
+  },
+  {
+    "title": "Ullu Ka Pattha - Songspkred.co",
+    "artist": "Arijit Singh & Nikita Gandhi - Songspkred.co",
+    "album": "Jagga Jasoos",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Ullu Ka Pattha 320kbps - Songspkred.co.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 211
+  },
+  {
+    "title": "Unforgettable",
+    "artist": "French Montana, Swae Lee",
+    "album": "Jungle Rules",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Unforgettable.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 233
+  },
+  {
+    "title": "Unknown Brain - Inspiration (feat. Aviella) [NCS Release]",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Unknown Brain - Inspiration (feat. Aviella) [NCS Release].mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 182
+  },
+  {
+    "title": "Unstoppable",
+    "artist": "Sia",
+    "album": "This Is Acting (Deluxe Version)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Unstoppable.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 217
+  },
+  {
+    "title": "Until I Found You",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Until I Found You.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 176
+  },
+  {
+    "title": "Urvashi - Pagalworld.org",
+    "artist": "Yo Yo Honey Singh - Pagalworld.org",
+    "album": "Urvashi - Pagalworld.org",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Urvashi - Yo Yo Honey Singh.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 215
+  },
+  {
+    "title": "Vaathi Coming-TamilDaDa.Info",
+    "artist": "Anirudh Ravichander & Gana Balachandar",
+    "album": "Master",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Vaathi Coming-TamilDaDa.Info.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 234
+  },
+  {
+    "title": "Varlaam Varlaam Vaa",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Varlaam Varlaam Vaa.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 235
+  },
+  {
+    "title": "Vedalam - The Theri Theme Lyric Ajith Kumar, Shruti Haasan Anirudh",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Vedalam - The Theri Theme Lyric Ajith Kumar, Shruti Haasan Anirudh.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 112
+  },
+  {
+    "title": "Vigdiyan Heeran",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Vigdiyan Heeran.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 197
+  },
+  {
+    "title": "Vikram Title Track",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Vikram Title Track.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 218
+  },
+  {
+    "title": "Vivegam - Surviva Official Song Video Ajith Kumar Anirudh Siva",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Vivegam - Surviva Official Song Video Ajith Kumar Anirudh Siva.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 194
+  },
+  {
+    "title": "Way Up",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Way Up.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 153
+  },
+  {
+    "title": "We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song] (Olodum Mix)",
+    "artist": "Unknown Artist",
+    "album": "youtube.com/watch?v=TGtWWb9emYI",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song] (Olodum Mix) (mp3jerk.com).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 245
+  },
+  {
+    "title": "Wetwork",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Wetwork.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 181
+  },
+  {
+    "title": "Where Them Girls At_320kbps",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Where Them Girls At_320kbps.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 210
+  },
+  {
+    "title": "Whistle Podu",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Whistle Podu.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 281
+  },
+  {
+    "title": "White Brown Black",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/White Brown Black.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 176
+  },
+  {
+    "title": "Without Me",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Without Me.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 201
+  },
+  {
+    "title": "Woofer (Mr-Jatt.com)",
+    "artist": "Snoop Dogg, Zora Randhawa, Nargis Fakhri (Mr-Jatt.com)",
+    "album": "Woofer (Mr-Jatt.com)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Woofer-(Mr-Jatt.com).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 172
+  },
+  {
+    "title": "Ya Ali - Full song (mp3 Version)",
+    "artist": "Amarinder Walia",
+    "album": "Ya Ali - Full song (mp3 Version)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Ya-Ali-Full-song-mp3-Version_UFFexC-AikI.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 287
+  },
+  {
+    "title": "Ya-lili-song-new-hd-quality-download_oOe95ZCnm00",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Ya-lili-song-new-hd-quality-download_oOe95ZCnm00.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 186
+  },
+  {
+    "title": "Yai Re",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Yai Re.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 245
+  },
+  {
+    "title": "Yeh lili yeh lila",
+    "artist": "New whatsapp Status",
+    "album": "Yeh lili yeh lila",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Yeh-lili-yeh-lila_UDh6xy1aN0E (1).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 30
+  },
+  {
+    "title": "Zack Knight - Bollywood Medley 6",
+    "artist": "Unknown Artist",
+    "album": "youtube.com/watch?v=-NCqZ4MvbWI",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Zack Knight - Bollywood Medley Pt 6 (mp3jerk.com).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 157
+  },
+  {
+    "title": "Zack Knight x Jasmin Walia - Bom Diggy (Official Music Video)",
+    "artist": "Unknown Artist",
+    "album": "youtube.com/watch?v=lEgTtQFMjWw",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Zack Knight x Jasmin Walia - Bom Diggy (Official Music Video) (mp3jerk.com).mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 230
+  },
+  {
+    "title": "Zara Zara",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Zara Zara.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 204
+  },
+  {
+    "title": "Zaroori Tha",
+    "artist": "Rahat Fateh Ali Khan",
+    "album": "Back 2 Love",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Zaroori Tha.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 342
+  },
+  {
+    "title": "Zoom Zoom",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Zoom Zoom.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 224
+  }
+]
