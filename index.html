@@ -58,6 +58,71 @@
         </div>
       </div>
 
+      <h1>Discover Music</h1>
+      <section class="home-category" id="recently-played-section">
+        <h2>Recently Played</h2>
+        <div class="scroll-arrows">
+          <button
+            class="scroll-btn left"
+            data-target="recently-played-container"
+          >
+            <i class="fas fa-chevron-left"></i>
+          </button>
+          <div class="card-container" id="recently-played-container"></div>
+          <button
+            class="scroll-btn right"
+            data-target="recently-played-container"
+          >
+            <i class="fas fa-chevron-right"></i>
+          </button>
+        </div>
+      </section>
+
+      <section class="home-category" id="freshly-added-section">
+        <h2>Freshly Added</h2>
+        <div class="scroll-arrows">
+          <button class="scroll-btn left" data-target="freshly-added-container">
+            <i class="fas fa-chevron-left"></i>
+          </button>
+          <div class="card-container" id="freshly-added-container"></div>
+          <button
+            class="scroll-btn right"
+            data-target="freshly-added-container"
+          >
+            <i class="fas fa-chevron-right"></i>
+          </button>
+        </div>
+      </section>
+
+      <section class="home-category" id="top-artists-section">
+        <h2>Top Artists</h2>
+        <div class="scroll-arrows">
+          <button class="scroll-btn left" data-target="top-artists-container">
+            <i class="fas fa-chevron-left"></i>
+          </button>
+          <div
+            class="card-container artist-card-container"
+            id="top-artists-container"
+          ></div>
+          <button class="scroll-btn right" data-target="top-artists-container">
+            <i class="fas fa-chevron-right"></i>
+          </button>
+        </div>
+      </section>
+
+      <section class="home-category" id="random-picks-section">
+        <h2>Random Picks</h2>
+        <div class="scroll-arrows">
+          <button class="scroll-btn left" data-target="random-picks-container">
+            <i class="fas fa-chevron-left"></i>
+          </button>
+          <div class="card-container" id="random-picks-container"></div>
+          <button class="scroll-btn right" data-target="random-picks-container">
+            <i class="fas fa-chevron-right"></i>
+          </button>
+        </div>
+      </section>
+
       <div class="song-list-container">
         <div class="song-list-header">
           <div></div>
@@ -73,15 +138,7 @@
         </ul>
       </div>
 
-      <div
-        class="pagination-controls"
-        style="
-          display: flex;
-          justify-content: center;
-          gap: 1rem;
-          margin: 1rem 0;
-        "
-      >
+      <div class="pagination-controls">
         <button id="prev-page-btn">Prev</button>
         <span id="page-info"></span>
         <button id="next-page-btn">Next</button>

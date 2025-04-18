@@ -112,6 +112,7 @@ button i {
   overflow: hidden;
   border: 1px solid var(--background-light);
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+  display: none;
 }
 
 .song-list-header,
@@ -123,6 +124,13 @@ button i {
   gap: 1rem;
   border-bottom: 1px solid var(--background-light);
   font-size: 0.9rem;
+}
+
+.pagination-controls {
+  display: none;
+  justify-content: center;
+  gap: 1rem;
+  margin: 1rem 0;
 }
 
 .song-list-header {
@@ -780,4 +788,153 @@ button i {
   border-radius: 50%;
   box-shadow: var(--glow-primary);
   cursor: pointer;
+}
+
+.main-content h1 {
+  /* Style the main Discover title */
+  margin-bottom: 1.5rem;
+  font-size: 2rem;
+  color: var(--primary-neon);
+}
+
+.home-category {
+  margin-bottom: 2.5rem;
+}
+
+.home-category h2 {
+  font-family: "Orbitron", sans-serif;
+  color: var(--primary-neon);
+  font-size: 1.4rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--background-light);
+  display: inline-block; /* So border only spans text width */
+}
+
+.card-container {
+  display: flex;
+  gap: 1rem;
+  overflow-x: auto; /* Enable horizontal scrolling */
+  padding-bottom: 1rem; /* Space for scrollbar */
+  /* Hide scrollbar visually (optional, keeps functionality) */
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+  scroll-behavior: smooth;
+  flex: 1 1 auto;
+}
+.card-container::-webkit-scrollbar {
+  display: none; /* Chrome, Safari, Opera */
+}
+
+.song-card,
+.artist-card {
+  flex: 0 0 auto; /* Prevent cards from shrinking */
+  width: 160px; /* Fixed width for cards */
+  background-color: var(--background-medium);
+  border-radius: 8px;
+  overflow: hidden;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  border: 1px solid var(--background-light);
+}
+
+.song-card:hover,
+.artist-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 15px rgba(0, 255, 255, 0.15);
+}
+
+.card-thumbnail {
+  width: 100%;
+  height: 130px; /* Adjust height as needed */
+  background-size: cover;
+  background-position: center;
+  background-color: var(--background-light); /* Placeholder color */
+  border-bottom: 1px solid var(--background-light);
+}
+
+/* Specific style for artist cards (circular) */
+.artist-card .card-thumbnail {
+  height: 160px; /* Make it square for circle */
+  border-radius: 50%; /* Make it circular */
+  margin: 0; /* Remove margin for circle */
+  border: none;
+}
+.artist-card {
+  background-color: transparent; /* Make card background transparent */
+  border: none;
+  text-align: center; /* Center artist name */
+}
+.artist-card:hover {
+  transform: scale(1.05); /* Slightly scale artist card on hover */
+  box-shadow: none;
+}
+.artist-card .card-info {
+  padding: 0.5rem 0; /* Adjust padding for artist name */
+}
+.artist-card .card-title {
+  font-size: 0.9rem; /* Adjust artist name font size */
+}
+
+.card-info {
+  padding: 0.8rem;
+}
+
+.card-title {
+  font-size: 0.9rem;
+  font-weight: bold;
+  color: var(--text-light);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin-bottom: 0.2rem;
+}
+
+.card-subtitle {
+  /* For artist/album */
+  font-size: 0.8rem;
+  color: var(--text-medium);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.placeholder-text {
+  color: var(--text-medium);
+  font-style: italic;
+  padding: 1rem 0;
+}
+
+/* Optional: Style for a "View All" button if added */
+.controls-button {
+  /* Reusing class from original styles */
+  background-color: var(--background-light);
+  color: var(--primary-neon);
+  padding: 0.6rem 1.2rem;
+  border-radius: 5px;
+  border: 1px solid var(--primary-neon);
+  box-shadow: inset 0 0 5px rgba(0, 255, 255, 0.3), var(--glow-primary);
+}
+.controls-button:hover {
+  background-color: var(--primary-neon);
+  color: var(--text-dark);
+  box-shadow: var(--glow-primary);
+}
+
+.scroll-arrows {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.scroll-btn {
+  background: none;
+  border: none;
+  color: var(--primary-neon);
+  font-size: 1.5rem;
+  cursor: pointer;
+  transition: color 0.2s;
+  z-index: 2;
+}
+.scroll-btn:hover {
+  color: var(--secondary-neon);
 }
