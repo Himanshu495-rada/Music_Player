@@ -543,6 +543,25 @@ button i {
 }
 
 @media (max-width: 768px) {
+  .header {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.7rem;
+  }
+  .header h1 {
+    margin-bottom: 0.5rem;
+    text-align: center;
+  }
+  .header input[type="search"] {
+    max-width: 100%;
+    margin: 0 0 0.5rem 0;
+    box-sizing: border-box;
+  }
+  .controls {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
   .footer-player {
     flex-direction: row !important;
     height: 80px;

@@ -408,6 +408,13 @@ document.addEventListener("DOMContentLoaded", async () => {
         : "fa-volume-up";
     volumeIcon.className = `fas ${iconClass}`;
     fsVolumeIcon.className = `fas ${iconClass}`;
+
+    // Show blue color for volume percentage on slider
+    const percent = volume * 100;
+    const blue = "#2196f3";
+    const bg = `linear-gradient(to right, ${blue} 0%, ${blue} ${percent}%, var(--background-light) ${percent}%, var(--background-light) 100%)`;
+    footerVolumeSlider.style.background = bg;
+    fsVolumeSlider.style.background = bg;
   }
 
   function shuffleAndPlay() {
