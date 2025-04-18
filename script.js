@@ -371,20 +371,11 @@ document.addEventListener("DOMContentLoaded", async () => {
     if (durationEl) durationEl.textContent = formatTime(duration);
   });
   audioPlayer.addEventListener("ended", nextSong);
-  // footerProgressContainer.addEventListener("click", (e) =>
-  //   setProgress(e, footerProgressContainer)
-  // );
-  // fsProgressContainer.addEventListener("click", (e) =>
-  //   setProgress(e, fsProgressContainer)
-  // );
+
   footerVolumeSlider.addEventListener("input", updateVolume);
   fsVolumeSlider.addEventListener("input", updateVolume);
   shufflePlayBtn.addEventListener("click", shuffleAndPlay);
-  // footerPlayer.addEventListener("click", (e) => {
-  //   if (!e.target.closest("button, input, .progress-bar-container")) {
-  //     openFullScreenPlayer();
-  //   }
-  // });
+
   footerPlayerInfo.addEventListener("click", openFullScreenPlayer);
   footerCoverArt.addEventListener("click", openFullScreenPlayer);
   closeFullScreenBtn.addEventListener("click", closeFullScreenPlayer);
@@ -399,37 +390,38 @@ document.addEventListener("DOMContentLoaded", async () => {
     }
   });
 
+  // Keyboard shortcuts (must be inside DOMContentLoaded to access variables)
+  document.addEventListener("keydown", (e) => {
+    // Ignore if typing in an input or textarea
+    if (
+      document.activeElement.tagName === "INPUT" ||
+      document.activeElement.tagName === "TEXTAREA" ||
+      document.activeElement.isContentEditable
+    ) {
+      return;
+    }
+    if (e.code === "Space") {
+      e.preventDefault();
+      togglePlayPause();
+    } else if (e.code === "ArrowRight") {
+      e.preventDefault();
+      if (!isNaN(audioPlayer.currentTime)) {
+        audioPlayer.currentTime = Math.min(
+          audioPlayer.currentTime + 5,
+          audioPlayer.duration || audioPlayer.currentTime + 5
+        );
+      }
+    } else if (e.code === "ArrowLeft") {
+      e.preventDefault();
+      if (!isNaN(audioPlayer.currentTime)) {
+        audioPlayer.currentTime = Math.max(audioPlayer.currentTime - 5, 0);
+      }
+    }
+  });
+
   // Initial setup
   renderCurrentPage();
   updateVolume({ target: { value: audioPlayer.volume } });
-});
-
-document.addEventListener("keydown", (e) => {
-  // Ignore if typing in an input or textarea
-  if (
-    document.activeElement.tagName === "INPUT" ||
-    document.activeElement.tagName === "TEXTAREA" ||
-    document.activeElement.isContentEditable
-  ) {
-    return;
-  }
-  if (e.code === "Space") {
-    e.preventDefault();
-    togglePlayPause();
-  } else if (e.code === "ArrowRight") {
-    e.preventDefault();
-    if (!isNaN(audioPlayer.currentTime)) {
-      audioPlayer.currentTime = Math.min(
-        audioPlayer.currentTime + 5,
-        audioPlayer.duration || audioPlayer.currentTime + 5
-      );
-    }
-  } else if (e.code === "ArrowLeft") {
-    e.preventDefault();
-    if (!isNaN(audioPlayer.currentTime)) {
-      audioPlayer.currentTime = Math.max(audioPlayer.currentTime - 5, 0);
-    }
-  }
 });
 
 const featuresLink = document.getElementById("features-link");

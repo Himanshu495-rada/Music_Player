@@ -3456,6 +3456,14 @@
     "duration": 180
   },
   {
+    "title": "Satya",
+    "artist": "DIVINE",
+    "album": "Punya Paap",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Satya - DIVINE.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 182
+  },
+  {
     "title": "Saware - PagalNew",
     "artist": "Pritam, Arijit Singh",
     "album": "Phantom",
@@ -3648,6 +3656,14 @@
     "duration": 141
   },
   {
+    "title": "Stereo Hearts (feat. Adam Levine)",
+    "artist": "Gym Class Heroes",
+    "album": "The Papercut Chronicles II",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Stereo Hearts (feat. Adam Levine) - Gym Class Heroes.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 210
+  },
+  {
     "title": "Sugar & Brownies",
     "artist": "Unknown Artist",
     "album": "Unknown Album",
@@ -3790,6 +3806,14 @@
     "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Taylor Swift - \u2026Ready For It (mp3jerk.com).mp3",
     "cover": "https://pub-19bd45b041d041579cbd6704e84c63c1.r2.dev/Taylor Swift - \u2026Ready For It (mp3jerk.com).jpg",
     "duration": 210
+  },
+  {
+    "title": "Tera Mera Rishta",
+    "artist": "Mustafa Zahid",
+    "album": "Awarapan (Original Motion Picture Soundtrack)",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Tera Mera Rishta - Mustafa Zahid.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 347
   },
   {
     "title": "Tere Hawaale(PagalWorld.com.se)",
@@ -4246,6 +4270,14 @@
     "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Without Me.mp3",
     "cover": "assets/image/default_cover.jpg",
     "duration": 201
+  },
+  {
+    "title": "Woh Lamhe Woh Baatein (From \"Zeher\")",
+    "artist": "Atif Aslam",
+    "album": "Zeher",
+    "src": "https://pub-c403363b2b11447bb27eb2c6cbcc103d.r2.dev/Woh Lamhe Woh Baatein (From Zeher) - Atif Aslam.mp3",
+    "cover": "assets/image/default_cover.jpg",
+    "duration": 320
   },
   {
     "title": "Woofer (Mr-Jatt.com)",

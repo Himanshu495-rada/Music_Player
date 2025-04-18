@@ -506,13 +506,13 @@ button i {
 }
 .fs-controls button.play-pause-btn i {
   font-size: 3rem; /* Even larger play/pause */
-  color: var(--primary-neon);
-  text-shadow: var(--glow-primary);
+  color: white;
+  /* text-shadow: var(--glow-primary); */
 }
-.fs-controls button.play-pause-btn:hover i {
+/* .fs-controls button.play-pause-btn:hover i {
   color: var(--secondary-neon);
   text-shadow: var(--glow-secondary);
-}
+} */
 .fs-controls button:hover {
   color: var(--primary-neon);
   text-shadow: var(--glow-primary);
